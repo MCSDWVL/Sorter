@@ -1,0 +1,906 @@
+{
+  "catalogId": "foods",
+  "index": 6,
+  "items": [
+    {
+      "qid": "Q2108393",
+      "label": "sale pisang",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q2425845",
+      "label": "sate kambing",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q19646375",
+      "label": "sate lilit",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q55700816",
+      "label": "Sheki halva",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q623247",
+      "label": "Shkedei marak",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q9696648",
+      "label": "shrimp curry",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q7522199",
+      "label": "Sindhi biryani",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q61366482",
+      "label": "Soft Khichuri",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q305329",
+      "label": "stoemp",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q25842375",
+      "label": "Street food of Thailand",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q7695520",
+      "label": "Tekwan",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q12007834",
+      "label": "Tubâ",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q546072",
+      "label": "Utopenec",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q85814488",
+      "label": "wasawasa",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q3232406",
+      "label": "Æbleflæsk",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q107358883",
+      "label": "African Salad",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q107489664",
+      "label": "Amiwô",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q65554426",
+      "label": "Asaana",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q28163754",
+      "label": "babi kecap",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q4838117",
+      "label": "Babute",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q4850911",
+      "label": "Balila",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2031430",
+      "label": "balsam",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2897203",
+      "label": "berkoukes",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5728276",
+      "label": "bienmesabe",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q365065",
+      "label": "bitter lemon",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q952366",
+      "label": "bocconotto",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q97360429",
+      "label": "Bolu kukus",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q116947279",
+      "label": "Bondiola sandwich",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q60761467",
+      "label": "Burgo",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5055611",
+      "label": "Cağ kebabı",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q69214",
+      "label": "Caragols a la llauna",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q3274058",
+      "label": "chả cá Lã Vọng",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5331853",
+      "label": "chili shrimp",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q15794115",
+      "label": "Cholera",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q997361",
+      "label": "Chwee kueh",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q18755741",
+      "label": "Çoban kavurma",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5180222",
+      "label": "Crab Louie",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1088248",
+      "label": "crocchè",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q773895",
+      "label": "Cuccìa PAT",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q3007979",
+      "label": "Cuñapé",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2723206",
+      "label": "Dal baati",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5253615",
+      "label": "Delele",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1228260",
+      "label": "Dirty rice",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5305996",
+      "label": "draw soup",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q28402897",
+      "label": "Edikang Ikong",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q25043246",
+      "label": "Efo riro",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q113038928",
+      "label": "Egbo",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5373825",
+      "label": "empal gentong",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q17050490",
+      "label": "empal gepuk",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q3097864",
+      "label": "espetada",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q47005642",
+      "label": "Ewa Agoyin",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1397571",
+      "label": "Fassbrause",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1132481",
+      "label": "Fioravanti",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5503628",
+      "label": "fried plantain",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q12233354",
+      "label": "galayet bandora",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5523464",
+      "label": "Garlic fingers",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5560177",
+      "label": "Gigandes plaki",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5565095",
+      "label": "Githeri",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2592256",
+      "label": "Hochepot",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1227144",
+      "label": "Intxaursaltsa",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6538385",
+      "label": "Japanese style peanuts",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q3043512",
+      "label": "Kalamay",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q25041872",
+      "label": "Khanom bua loi",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6426801",
+      "label": "Kokoro",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1779559",
+      "label": "kololak",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6429813",
+      "label": "Konro Soup",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q12518675",
+      "label": "Kue talam",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q17067824",
+      "label": "Laban Rayeb",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q14918748",
+      "label": "Lotek",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q18883046",
+      "label": "mala hot pot",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q24931479",
+      "label": "Masala puri",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q18595468",
+      "label": "merveilleux",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q16913644",
+      "label": "Mi Kocok",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6827067",
+      "label": "mi krop",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q4208661",
+      "label": "Mie celor",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6863335",
+      "label": "Minchee",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1038556",
+      "label": "Misu",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q3327283",
+      "label": "Msoki",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q4205452",
+      "label": "nasi kebuli",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q55593280",
+      "label": "nasi minyak",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6967056",
+      "label": "nasi tim",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q3874120",
+      "label": "Neccio",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q3301336",
+      "label": "Negimaki",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q4822464",
+      "label": "nokul",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5669719",
+      "label": "palourdes marinières",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q4368184",
+      "label": "Podpiwek",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1328767",
+      "label": "Polonaise",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q966824",
+      "label": "Potjevleesch",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q5556748",
+      "label": "Ragda patties",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q21424783",
+      "label": "Rakott krumpli",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q13644362",
+      "label": "Ramadan pide",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q21809695",
+      "label": "Russisch ei",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1117173",
+      "label": "Sarde in saor PAT",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q13114957",
+      "label": "Sharkarapuratti",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1051852",
+      "label": "Sōki",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q16847884",
+      "label": "spicy porridge",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q14916156",
+      "label": "strapačky",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q12884882",
+      "label": "Strapatsada",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q131819894",
+      "label": "strawberry pasta",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q87840119",
+      "label": "Stuffat tal-fenek",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    }
+  ]
+}

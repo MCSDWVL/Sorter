@@ -1,0 +1,1006 @@
+{
+  "catalogId": "television",
+  "index": 13,
+  "items": [
+    {
+      "qid": "Q18512154",
+      "label": "Kill Me Heal Me",
+      "sitelinks": 25,
+      "imdbId": "tt4339192",
+      "source": "wikidata",
+      "imdbVotes": 7328,
+      "igdbEngagement": 0,
+      "popularityScore": 63.65044721693099
+    },
+    {
+      "qid": "Q3235151",
+      "label": "VeggieTales",
+      "sitelinks": 30,
+      "imdbId": "tt0865856",
+      "source": "wikidata",
+      "imdbVotes": 2296,
+      "igdbEngagement": 0,
+      "popularityScore": 63.61160995195026
+    },
+    {
+      "qid": "Q457638",
+      "label": "The Pretender",
+      "sitelinks": 21,
+      "imdbId": "tt0115320",
+      "source": "wikidata",
+      "imdbVotes": 18061,
+      "igdbEngagement": 0,
+      "popularityScore": 63.56765837941647
+    },
+    {
+      "qid": "Q111670669",
+      "label": "The Crowded Room",
+      "sitelinks": 17,
+      "imdbId": "tt14417718",
+      "source": "wikidata",
+      "imdbVotes": 44983,
+      "igdbEngagement": 0,
+      "popularityScore": 63.53058070501346
+    },
+    {
+      "qid": "Q24905980",
+      "label": "Trollhunters: Tales of Arcadia",
+      "sitelinks": 20,
+      "imdbId": "tt1734135",
+      "source": "wikidata",
+      "imdbVotes": 22538,
+      "igdbEngagement": 0,
+      "popularityScore": 63.529346435594206
+    },
+    {
+      "qid": "Q1337217",
+      "label": "Pan Am",
+      "sitelinks": 20,
+      "imdbId": "tt1826805",
+      "source": "wikidata",
+      "imdbVotes": 22486,
+      "igdbEngagement": 0,
+      "popularityScore": 63.51931519893127
+    },
+    {
+      "qid": "Q2296908",
+      "label": "Strike Back",
+      "sitelinks": 18,
+      "imdbId": "tt1492179",
+      "source": "wikidata",
+      "imdbVotes": 35597,
+      "igdbEngagement": 0,
+      "popularityScore": 63.51425598721097
+    },
+    {
+      "qid": "Q117005456",
+      "label": "Fool Me Once",
+      "sitelinks": 15,
+      "imdbId": "tt5611024",
+      "source": "wikidata",
+      "imdbVotes": 70548,
+      "igdbEngagement": 0,
+      "popularityScore": 63.48490862207165
+    },
+    {
+      "qid": "Q738219",
+      "label": "Major Crimes",
+      "sitelinks": 21,
+      "imdbId": "tt1936532",
+      "source": "wikidata",
+      "imdbVotes": 17716,
+      "igdbEngagement": 0,
+      "popularityScore": 63.48390185172511
+    },
+    {
+      "qid": "Q218000",
+      "label": "Parenthood",
+      "sitelinks": 17,
+      "imdbId": "tt1416765",
+      "source": "wikidata",
+      "imdbVotes": 44481,
+      "igdbEngagement": 0,
+      "popularityScore": 63.48184305764576
+    },
+    {
+      "qid": "Q103821269",
+      "label": "The Patrick Star Show",
+      "sitelinks": 30,
+      "imdbId": "tt12915960",
+      "source": "wikidata",
+      "imdbVotes": 2225,
+      "igdbEngagement": 0,
+      "popularityScore": 63.4752515999869
+    },
+    {
+      "qid": "Q105221079",
+      "label": "Sonic Prime",
+      "sitelinks": 27,
+      "imdbId": "tt13961348",
+      "source": "wikidata",
+      "imdbVotes": 4440,
+      "igdbEngagement": 0,
+      "popularityScore": 63.47480773173676
+    },
+    {
+      "qid": "Q113630126",
+      "label": "Lessons in Chemistry",
+      "sitelinks": 16,
+      "imdbId": "tt13911628",
+      "source": "wikidata",
+      "imdbVotes": 55897,
+      "igdbEngagement": 0,
+      "popularityScore": 63.4739626934434
+    },
+    {
+      "qid": "Q28938169",
+      "label": "Rise of the Teenage Mutant Ninja Turtles",
+      "sitelinks": 25,
+      "imdbId": "tt6601082",
+      "source": "wikidata",
+      "imdbVotes": 7035,
+      "igdbEngagement": 0,
+      "popularityScore": 63.47325830785424
+    },
+    {
+      "qid": "Q80546046",
+      "label": "Don't F**k with Cats: Hunting an Internet Killer",
+      "sitelinks": 15,
+      "imdbId": "tt11318602",
+      "source": "wikidata",
+      "imdbVotes": 70288,
+      "igdbEngagement": 0,
+      "popularityScore": 63.46887364662887
+    },
+    {
+      "qid": "Q944287",
+      "label": "The Little Mermaid",
+      "sitelinks": 25,
+      "imdbId": "tt0103477",
+      "source": "wikidata",
+      "imdbVotes": 7020,
+      "igdbEngagement": 0,
+      "popularityScore": 63.463989730346746
+    },
+    {
+      "qid": "Q1066688",
+      "label": "No Ordinary Family",
+      "sitelinks": 21,
+      "imdbId": "tt1591493",
+      "source": "wikidata",
+      "imdbVotes": 17627,
+      "igdbEngagement": 0,
+      "popularityScore": 63.46203041837881
+    },
+    {
+      "qid": "Q18608417",
+      "label": "The Librarians",
+      "sitelinks": 19,
+      "imdbId": "tt3663490",
+      "source": "wikidata",
+      "imdbVotes": 27884,
+      "igdbEngagement": 0,
+      "popularityScore": 63.4537064882758
+    },
+    {
+      "qid": "Q18201645",
+      "label": "Kara Para Aşk",
+      "sitelinks": 24,
+      "imdbId": "tt3565486",
+      "source": "wikidata",
+      "imdbVotes": 8787,
+      "igdbEngagement": 0,
+      "popularityScore": 63.438900482484726
+    },
+    {
+      "qid": "Q97671423",
+      "label": "Sex/Life",
+      "sitelinks": 18,
+      "imdbId": "tt10839422",
+      "source": "wikidata",
+      "imdbVotes": 34909,
+      "igdbEngagement": 0,
+      "popularityScore": 63.42949848814179
+    },
+    {
+      "qid": "Q110490199",
+      "label": "Archive 81",
+      "sitelinks": 15,
+      "imdbId": "tt13365348",
+      "source": "wikidata",
+      "imdbVotes": 68670,
+      "igdbEngagement": 0,
+      "popularityScore": 63.3677337171807
+    },
+    {
+      "qid": "Q25929253",
+      "label": "Naruto",
+      "sitelinks": 11,
+      "imdbId": "tt0409591",
+      "source": "wikidata",
+      "imdbVotes": 172064,
+      "igdbEngagement": 0,
+      "popularityScore": 63.35692538818435
+    },
+    {
+      "qid": "Q46992827",
+      "label": "Warrior",
+      "sitelinks": 16,
+      "imdbId": "tt5743796",
+      "source": "wikidata",
+      "imdbVotes": 54088,
+      "igdbEngagement": 0,
+      "popularityScore": 63.331089522592855
+    },
+    {
+      "qid": "Q65076295",
+      "label": "FBI: Most Wanted",
+      "sitelinks": 22,
+      "imdbId": "tt9742936",
+      "source": "wikidata",
+      "imdbVotes": 13503,
+      "igdbEngagement": 0,
+      "popularityScore": 63.304624292815795
+    },
+    {
+      "qid": "Q1477859",
+      "label": "Millennium",
+      "sitelinks": 22,
+      "imdbId": "tt0115270",
+      "source": "wikidata",
+      "imdbVotes": 13491,
+      "igdbEngagement": 0,
+      "popularityScore": 63.30076332517164
+    },
+    {
+      "qid": "Q1251705",
+      "label": "Doug",
+      "sitelinks": 20,
+      "imdbId": "tt0101084",
+      "source": "wikidata",
+      "imdbVotes": 21379,
+      "igdbEngagement": 0,
+      "popularityScore": 63.30007700872759
+    },
+    {
+      "qid": "Q25209813",
+      "label": "Alias Grace",
+      "sitelinks": 17,
+      "imdbId": "tt1034007",
+      "source": "wikidata",
+      "imdbVotes": 42256,
+      "igdbEngagement": 0,
+      "popularityScore": 63.25898661441019
+    },
+    {
+      "qid": "Q1045743",
+      "label": "Space: 1999",
+      "sitelinks": 23,
+      "imdbId": "tt0072564",
+      "source": "wikidata",
+      "imdbVotes": 10592,
+      "igdbEngagement": 0,
+      "popularityScore": 63.25018972282759
+    },
+    {
+      "qid": "Q1247235",
+      "label": "United States of Tara",
+      "sitelinks": 19,
+      "imdbId": "tt1001482",
+      "source": "wikidata",
+      "imdbVotes": 26527,
+      "igdbEngagement": 0,
+      "popularityScore": 63.2370450887018
+    },
+    {
+      "qid": "Q28127287",
+      "label": "Workin' Moms",
+      "sitelinks": 19,
+      "imdbId": "tt6143796",
+      "source": "wikidata",
+      "imdbVotes": 26437,
+      "igdbEngagement": 0,
+      "popularityScore": 63.22228598248672
+    },
+    {
+      "qid": "Q1535338",
+      "label": "Ned's Declassified School Survival Guide",
+      "sitelinks": 20,
+      "imdbId": "tt0405576",
+      "source": "wikidata",
+      "imdbVotes": 20917,
+      "igdbEngagement": 0,
+      "popularityScore": 63.20520158661488
+    },
+    {
+      "qid": "Q1752538",
+      "label": "The Stand",
+      "sitelinks": 17,
+      "imdbId": "tt0108941",
+      "source": "wikidata",
+      "imdbVotes": 41496,
+      "igdbEngagement": 0,
+      "popularityScore": 63.18016700795462
+    },
+    {
+      "qid": "Q2134985",
+      "label": "Reaper",
+      "sitelinks": 19,
+      "imdbId": "tt0955322",
+      "source": "wikidata",
+      "imdbVotes": 26079,
+      "igdbEngagement": 0,
+      "popularityScore": 63.163075870598824
+    },
+    {
+      "qid": "Q1990905",
+      "label": "Wolverine and the X-Men",
+      "sitelinks": 22,
+      "imdbId": "tt0772145",
+      "source": "wikidata",
+      "imdbVotes": 13067,
+      "igdbEngagement": 0,
+      "popularityScore": 63.162091258034
+    },
+    {
+      "qid": "Q24262067",
+      "label": "Marcella",
+      "sitelinks": 17,
+      "imdbId": "tt5269594",
+      "source": "wikidata",
+      "imdbVotes": 41317,
+      "igdbEngagement": 0,
+      "popularityScore": 63.16139291308727
+    },
+    {
+      "qid": "Q915313",
+      "label": "Brigada",
+      "sitelinks": 22,
+      "imdbId": "tt0337898",
+      "source": "wikidata",
+      "imdbVotes": 13047,
+      "igdbEngagement": 0,
+      "popularityScore": 63.155439480322194
+    },
+    {
+      "qid": "Q15072814",
+      "label": "Extant",
+      "sitelinks": 19,
+      "imdbId": "tt3155320",
+      "source": "wikidata",
+      "imdbVotes": 25990,
+      "igdbEngagement": 0,
+      "popularityScore": 63.14822989240416
+    },
+    {
+      "qid": "Q657855",
+      "label": "Tron: Uprising",
+      "sitelinks": 23,
+      "imdbId": "tt1812523",
+      "source": "wikidata",
+      "imdbVotes": 10324,
+      "igdbEngagement": 0,
+      "popularityScore": 63.138900603284384
+    },
+    {
+      "qid": "Q924727",
+      "label": "Don't Mess with an Angel",
+      "sitelinks": 30,
+      "imdbId": "tt1245565",
+      "source": "wikidata",
+      "imdbVotes": 2057,
+      "igdbEngagement": 0,
+      "popularityScore": 63.13445370426414
+    },
+    {
+      "qid": "Q1346776",
+      "label": "Greek",
+      "sitelinks": 19,
+      "imdbId": "tt0976014",
+      "source": "wikidata",
+      "imdbVotes": 25851,
+      "igdbEngagement": 0,
+      "popularityScore": 63.12494147250635
+    },
+    {
+      "qid": "Q815942",
+      "label": "Duck Dodgers",
+      "sitelinks": 24,
+      "imdbId": "tt0376390",
+      "source": "wikidata",
+      "imdbVotes": 8174,
+      "igdbEngagement": 0,
+      "popularityScore": 63.124877613323235
+    },
+    {
+      "qid": "Q117254317",
+      "label": "The Residence",
+      "sitelinks": 15,
+      "imdbId": "tt8740614",
+      "source": "wikidata",
+      "imdbVotes": 64921,
+      "igdbEngagement": 0,
+      "popularityScore": 63.123918903221664
+    },
+    {
+      "qid": "Q18579178",
+      "label": "Kabaneri of the Iron Fortress",
+      "sitelinks": 24,
+      "imdbId": "tt5556656",
+      "source": "wikidata",
+      "imdbVotes": 8161,
+      "igdbEngagement": 0,
+      "popularityScore": 63.117965904372525
+    },
+    {
+      "qid": "Q25205882",
+      "label": "Goliath",
+      "sitelinks": 15,
+      "imdbId": "tt4687880",
+      "source": "wikidata",
+      "imdbVotes": 64372,
+      "igdbEngagement": 0,
+      "popularityScore": 63.087037491955506
+    },
+    {
+      "qid": "Q107299032",
+      "label": "Anatomy of a Scandal",
+      "sitelinks": 17,
+      "imdbId": "tt12748084",
+      "source": "wikidata",
+      "imdbVotes": 40610,
+      "igdbEngagement": 0,
+      "popularityScore": 63.08643683632732
+    },
+    {
+      "qid": "Q523190",
+      "label": "T.U.F.F. Puppy",
+      "sitelinks": 27,
+      "imdbId": "tt1710310",
+      "source": "wikidata",
+      "imdbVotes": 4036,
+      "igdbEngagement": 0,
+      "popularityScore": 63.060587494103146
+    },
+    {
+      "qid": "Q1478925",
+      "label": "The Mighty Boosh",
+      "sitelinks": 19,
+      "imdbId": "tt0416394",
+      "source": "wikidata",
+      "imdbVotes": 25448,
+      "igdbEngagement": 0,
+      "popularityScore": 63.05670721721326
+    },
+    {
+      "qid": "Q111947838",
+      "label": "The Santa Clauses",
+      "sitelinks": 22,
+      "imdbId": "tt17047510",
+      "source": "wikidata",
+      "imdbVotes": 12633,
+      "igdbEngagement": 0,
+      "popularityScore": 63.01540872558349
+    },
+    {
+      "qid": "Q974857",
+      "label": "Police Squad!",
+      "sitelinks": 19,
+      "imdbId": "tt0083466",
+      "source": "wikidata",
+      "imdbVotes": 24991,
+      "igdbEngagement": 0,
+      "popularityScore": 62.97801012197206
+    },
+    {
+      "qid": "Q1138359",
+      "label": "Royal Pains",
+      "sitelinks": 19,
+      "imdbId": "tt1319735",
+      "source": "wikidata",
+      "imdbVotes": 24953,
+      "igdbEngagement": 0,
+      "popularityScore": 62.971401707485775
+    },
+    {
+      "qid": "Q19798724",
+      "label": "Killjoys",
+      "sitelinks": 19,
+      "imdbId": "tt3952222",
+      "source": "wikidata",
+      "imdbVotes": 24888,
+      "igdbEngagement": 0,
+      "popularityScore": 62.96007447705162
+    },
+    {
+      "qid": "Q1520493",
+      "label": "Highlander: The Series",
+      "sitelinks": 20,
+      "imdbId": "tt0103442",
+      "source": "wikidata",
+      "imdbVotes": 19760,
+      "igdbEngagement": 0,
+      "popularityScore": 62.95808918161177
+    },
+    {
+      "qid": "Q82070811",
+      "label": "Caliphate",
+      "sitelinks": 19,
+      "imdbId": "tt11398870",
+      "source": "wikidata",
+      "imdbVotes": 24812,
+      "igdbEngagement": 0,
+      "popularityScore": 62.946792755450986
+    },
+    {
+      "qid": "Q210503",
+      "label": "Shark",
+      "sitelinks": 22,
+      "imdbId": "tt0805666",
+      "source": "wikidata",
+      "imdbVotes": 12405,
+      "igdbEngagement": 0,
+      "popularityScore": 62.936317768289484
+    },
+    {
+      "qid": "Q20730109",
+      "label": "She Was Pretty",
+      "sitelinks": 24,
+      "imdbId": "tt5045900",
+      "source": "wikidata",
+      "imdbVotes": 7826,
+      "igdbEngagement": 0,
+      "popularityScore": 62.93595333819883
+    },
+    {
+      "qid": "Q245996",
+      "label": "Three's Company",
+      "sitelinks": 20,
+      "imdbId": "tt0075596",
+      "source": "wikidata",
+      "imdbVotes": 19398,
+      "igdbEngagement": 0,
+      "popularityScore": 62.87779343039739
+    },
+    {
+      "qid": "Q70106936",
+      "label": "Primal",
+      "sitelinks": 18,
+      "imdbId": "tt10332508",
+      "source": "wikidata",
+      "imdbVotes": 30671,
+      "igdbEngagement": 0,
+      "popularityScore": 62.867420955339874
+    },
+    {
+      "qid": "Q28219",
+      "label": "Girls und Panzer",
+      "sitelinks": 30,
+      "imdbId": "tt2294076",
+      "source": "wikidata",
+      "imdbVotes": 1933,
+      "igdbEngagement": 0,
+      "popularityScore": 62.86456469746983
+    },
+    {
+      "qid": "Q45504593",
+      "label": "Çukur",
+      "sitelinks": 19,
+      "imdbId": "tt7431994",
+      "source": "wikidata",
+      "imdbVotes": 24328,
+      "igdbEngagement": 0,
+      "popularityScore": 62.861242584003115
+    },
+    {
+      "qid": "Q19863017",
+      "label": "Crazy Ex-Girlfriend",
+      "sitelinks": 19,
+      "imdbId": "tt4094300",
+      "source": "wikidata",
+      "imdbVotes": 24320,
+      "igdbEngagement": 0,
+      "popularityScore": 62.859814277369395
+    },
+    {
+      "qid": "Q12886333",
+      "label": "Ravenswood",
+      "sitelinks": 23,
+      "imdbId": "tt2799012",
+      "source": "wikidata",
+      "imdbVotes": 9653,
+      "igdbEngagement": 0,
+      "popularityScore": 62.847072944826735
+    },
+    {
+      "qid": "Q1994052",
+      "label": "Metalocalypse",
+      "sitelinks": 20,
+      "imdbId": "tt0839188",
+      "source": "wikidata",
+      "imdbVotes": 19232,
+      "igdbEngagement": 0,
+      "popularityScore": 62.840470316033944
+    },
+    {
+      "qid": "Q56277122",
+      "label": "Mythic Quest",
+      "sitelinks": 17,
+      "imdbId": "tt8879940",
+      "source": "wikidata",
+      "imdbVotes": 38354,
+      "igdbEngagement": 0,
+      "popularityScore": 62.83821987082017
+    },
+    {
+      "qid": "Q842118",
+      "label": "Cory in the House",
+      "sitelinks": 24,
+      "imdbId": "tt0805815",
+      "source": "wikidata",
+      "imdbVotes": 7645,
+      "igdbEngagement": 0,
+      "popularityScore": 62.83434293683009
+    },
+    {
+      "qid": "Q660237",
+      "label": "Alice in Wonderland",
+      "sitelinks": 23,
+      "imdbId": "tt0164993",
+      "source": "wikidata",
+      "imdbVotes": 9619,
+      "igdbEngagement": 0,
+      "popularityScore": 62.83175072037813
+    },
+    {
+      "qid": "Q1247192",
+      "label": "Judging Amy",
+      "sitelinks": 24,
+      "imdbId": "tt0209069",
+      "source": "wikidata",
+      "imdbVotes": 7636,
+      "igdbEngagement": 0,
+      "popularityScore": 62.829227906025984
+    },
+    {
+      "qid": "Q15483532",
+      "label": "24: Live Another Day",
+      "sitelinks": 16,
+      "imdbId": "tt1598754",
+      "source": "wikidata",
+      "imdbVotes": 48153,
+      "igdbEngagement": 0,
+      "popularityScore": 62.826323684236826
+    },
+    {
+      "qid": "Q853870",
+      "label": "Baby Looney Tunes",
+      "sitelinks": 25,
+      "imdbId": "tt0338580",
+      "source": "wikidata",
+      "imdbVotes": 6048,
+      "igdbEngagement": 0,
+      "popularityScore": 62.816835845073506
+    },
+    {
+      "qid": "Q2719817",
+      "label": "Taarak Mehta Ka Ooltah Chashmah",
+      "sitelinks": 21,
+      "imdbId": "tt1708446",
+      "source": "wikidata",
+      "imdbVotes": 15152,
+      "igdbEngagement": 0,
+      "popularityScore": 62.80498623232012
+    },
+    {
+      "qid": "Q20590069",
+      "label": "Steins;Gate",
+      "sitelinks": 13,
+      "imdbId": "tt1910272",
+      "source": "wikidata",
+      "imdbVotes": 95513,
+      "igdbEngagement": 0,
+      "popularityScore": 62.80067033124341
+    },
+    {
+      "qid": "Q52201581",
+      "label": "The Protector",
+      "sitelinks": 17,
+      "imdbId": "tt7668518",
+      "source": "wikidata",
+      "imdbVotes": 37968,
+      "igdbEngagement": 0,
+      "popularityScore": 62.79429159157155
+    },
+    {
+      "qid": "Q18601923",
+      "label": "Olive Kitteridge",
+      "sitelinks": 18,
+      "imdbId": "tt3012698",
+      "source": "wikidata",
+      "imdbVotes": 30112,
+      "igdbEngagement": 0,
+      "popularityScore": 62.78754024145899
+    },
+    {
+      "qid": "Q830744",
+      "label": "Fish Hooks",
+      "sitelinks": 26,
+      "imdbId": "tt1725902",
+      "source": "wikidata",
+      "imdbVotes": 4767,
+      "igdbEngagement": 0,
+      "popularityScore": 62.7833624673218
+    },
+    {
+      "qid": "Q726784",
+      "label": "Jake and the Never Land Pirates",
+      "sitelinks": 28,
+      "imdbId": "tt1833403",
+      "source": "wikidata",
+      "imdbVotes": 3005,
+      "igdbEngagement": 0,
+      "popularityScore": 62.779889762508894
+    },
+    {
+      "qid": "Q117351362",
+      "label": "Scott Pilgrim Takes Off",
+      "sitelinks": 19,
+      "imdbId": "tt16969708",
+      "source": "wikidata",
+      "imdbVotes": 23804,
+      "igdbEngagement": 0,
+      "popularityScore": 62.766681858105294
+    },
+    {
+      "qid": "Q59387732",
+      "label": "Swamp Thing",
+      "sitelinks": 18,
+      "imdbId": "tt8362852",
+      "source": "wikidata",
+      "imdbVotes": 29710,
+      "igdbEngagement": 0,
+      "popularityScore": 62.72917269345676
+    },
+    {
+      "qid": "Q114769724",
+      "label": "The Eternaut",
+      "sitelinks": 17,
+      "imdbId": "tt27740241",
+      "source": "wikidata",
+      "imdbVotes": 37386,
+      "igdbEngagement": 0,
+      "popularityScore": 62.727206179833935
+    },
+    {
+      "qid": "Q63350570",
+      "label": "Demon Slayer: Kimetsu no Yaiba",
+      "sitelinks": 9,
+      "imdbId": "tt9335498",
+      "source": "wikidata",
+      "imdbVotes": 234053,
+      "igdbEngagement": 0,
+      "popularityScore": 62.693160676513834
+    },
+    {
+      "qid": "Q30612134",
+      "label": "A Very English Scandal",
+      "sitelinks": 20,
+      "imdbId": "tt6938856",
+      "source": "wikidata",
+      "imdbVotes": 18474,
+      "igdbEngagement": 0,
+      "popularityScore": 62.66584447066863
+    },
+    {
+      "qid": "Q283384",
+      "label": "Atomic Betty",
+      "sitelinks": 29,
+      "imdbId": "tt0424603",
+      "source": "wikidata",
+      "imdbVotes": 2323,
+      "igdbEngagement": 0,
+      "popularityScore": 62.662361237182935
+    },
+    {
+      "qid": "Q376045",
+      "label": "The Replacements",
+      "sitelinks": 27,
+      "imdbId": "tt0816401",
+      "source": "wikidata",
+      "imdbVotes": 3672,
+      "igdbEngagement": 0,
+      "popularityScore": 62.65020928345294
+    },
+    {
+      "qid": "Q130258195",
+      "label": "When the Phone Rings",
+      "sitelinks": 13,
+      "imdbId": "tt33503491",
+      "source": "wikidata",
+      "imdbVotes": 92258,
+      "igdbEngagement": 0,
+      "popularityScore": 62.6500874295775
+    },
+    {
+      "qid": "Q101083996",
+      "label": "The Silent Sea",
+      "sitelinks": 18,
+      "imdbId": "tt11570202",
+      "source": "wikidata",
+      "imdbVotes": 29135,
+      "igdbEngagement": 0,
+      "popularityScore": 62.64429928450845
+    },
+    {
+      "qid": "Q15830438",
+      "label": "Breadwinners",
+      "sitelinks": 26,
+      "imdbId": "tt3481544",
+      "source": "wikidata",
+      "imdbVotes": 4616,
+      "igdbEngagement": 0,
+      "popularityScore": 62.64359874551141
+    },
+    {
+      "qid": "Q18152910",
+      "label": "Nicky, Ricky, Dicky & Dawn",
+      "sitelinks": 26,
+      "imdbId": "tt3596176",
+      "source": "wikidata",
+      "imdbVotes": 4577,
+      "igdbEngagement": 0,
+      "popularityScore": 62.60675788338524
+    },
+    {
+      "qid": "Q70209134",
+      "label": "Helstrom",
+      "sitelinks": 22,
+      "imdbId": "tt10266874",
+      "source": "wikidata",
+      "imdbVotes": 11441,
+      "igdbEngagement": 0,
+      "popularityScore": 62.5850194342965
+    },
+    {
+      "qid": "Q24262082",
+      "label": "Shooter",
+      "sitelinks": 16,
+      "imdbId": "tt4181172",
+      "source": "wikidata",
+      "imdbVotes": 45549,
+      "igdbEngagement": 0,
+      "popularityScore": 62.58488381309017
+    },
+    {
+      "qid": "Q1463792",
+      "label": "Taz-Mania",
+      "sitelinks": 22,
+      "imdbId": "tt0103562",
+      "source": "wikidata",
+      "imdbVotes": 11429,
+      "igdbEngagement": 0,
+      "popularityScore": 62.580462303952814
+    },
+    {
+      "qid": "Q21152164",
+      "label": "The Deuce",
+      "sitelinks": 17,
+      "imdbId": "tt4998350",
+      "source": "wikidata",
+      "imdbVotes": 35855,
+      "igdbEngagement": 0,
+      "popularityScore": 62.545618391909855
+    },
+    {
+      "qid": "Q174972",
+      "label": "Touched by an Angel",
+      "sitelinks": 23,
+      "imdbId": "tt0108968",
+      "source": "wikidata",
+      "imdbVotes": 9001,
+      "igdbEngagement": 0,
+      "popularityScore": 62.5433900860246
+    },
+    {
+      "qid": "Q28456334",
+      "label": "Infinity Train",
+      "sitelinks": 22,
+      "imdbId": "tt8146754",
+      "source": "wikidata",
+      "imdbVotes": 11299,
+      "igdbEngagement": 0,
+      "popularityScore": 62.5307844348342
+    },
+    {
+      "qid": "Q52503753",
+      "label": "Patrick Melrose",
+      "sitelinks": 17,
+      "imdbId": "tt6586318",
+      "source": "wikidata",
+      "imdbVotes": 35725,
+      "igdbEngagement": 0,
+      "popularityScore": 62.52984393891383
+    },
+    {
+      "qid": "Q471214",
+      "label": "Rose Red",
+      "sitelinks": 18,
+      "imdbId": "tt0259153",
+      "source": "wikidata",
+      "imdbVotes": 28088,
+      "igdbEngagement": 0,
+      "popularityScore": 62.485362781046575
+    },
+    {
+      "qid": "Q1470724",
+      "label": "The New Adventures of Winnie the Pooh",
+      "sitelinks": 25,
+      "imdbId": "tt0165052",
+      "source": "wikidata",
+      "imdbVotes": 5596,
+      "igdbEngagement": 0,
+      "popularityScore": 62.4795530690673
+    },
+    {
+      "qid": "Q123953931",
+      "label": "Eyes of Wakanda",
+      "sitelinks": 22,
+      "imdbId": "tt13968252",
+      "source": "wikidata",
+      "imdbVotes": 11131,
+      "igdbEngagement": 0,
+      "popularityScore": 62.465731976620056
+    },
+    {
+      "qid": "Q23680095",
+      "label": "Rapunzel's Tangled Adventure",
+      "sitelinks": 26,
+      "imdbId": "tt4902964",
+      "source": "wikidata",
+      "imdbVotes": 4414,
+      "igdbEngagement": 0,
+      "popularityScore": 62.44930707913587
+    },
+    {
+      "qid": "Q109242187",
+      "label": "Interview with the Vampire",
+      "sitelinks": 16,
+      "imdbId": "tt3960394",
+      "source": "wikidata",
+      "imdbVotes": 43992,
+      "igdbEngagement": 0,
+      "popularityScore": 62.43383578685687
+    },
+    {
+      "qid": "Q1549157",
+      "label": "House of Lies",
+      "sitelinks": 18,
+      "imdbId": "tt1797404",
+      "source": "wikidata",
+      "imdbVotes": 27731,
+      "igdbEngagement": 0,
+      "popularityScore": 62.429811915267344
+    },
+    {
+      "qid": "Q108166770",
+      "label": "Under the Banner of Heaven",
+      "sitelinks": 16,
+      "imdbId": "tt1998372",
+      "source": "wikidata",
+      "imdbVotes": 43537,
+      "igdbEngagement": 0,
+      "popularityScore": 62.388684750286025
+    },
+    {
+      "qid": "Q2478848",
+      "label": "Diff'rent Strokes",
+      "sitelinks": 21,
+      "imdbId": "tt0077003",
+      "source": "wikidata",
+      "imdbVotes": 13676,
+      "igdbEngagement": 0,
+      "popularityScore": 62.35990846921625
+    }
+  ]
+}

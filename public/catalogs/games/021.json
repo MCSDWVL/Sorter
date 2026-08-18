@@ -1,0 +1,1003 @@
+{
+  "catalogId": "games",
+  "index": 20,
+  "items": [
+    {
+      "qid": "Q1199043",
+      "label": "Metal Slug 5",
+      "sitelinks": 13,
+      "imdbId": "tt0479101",
+      "source": "wikidata",
+      "imdbVotes": 355,
+      "igdbEngagement": 0,
+      "popularityScore": 38.514499979728754
+    },
+    {
+      "qid": "Q64211428",
+      "label": "Pokémon Masters EX",
+      "sitelinks": 14,
+      "imdbId": "tt10314988",
+      "source": "wikidata",
+      "imdbVotes": 279,
+      "igdbEngagement": 0,
+      "popularityScore": 38.471580313422194
+    },
+    {
+      "qid": "Q567250",
+      "label": "Anno 1602",
+      "sitelinks": 17,
+      "imdbId": "tt0926273",
+      "source": "wikidata",
+      "imdbVotes": 139,
+      "igdbEngagement": 0,
+      "popularityScore": 38.46128035678238
+    },
+    {
+      "qid": "Q766633",
+      "label": "Skullgirls",
+      "sitelinks": 14,
+      "imdbId": "tt2357337",
+      "source": "wikidata",
+      "imdbVotes": 278,
+      "igdbEngagement": 0,
+      "popularityScore": 38.45604203273597
+    },
+    {
+      "qid": "Q2627223",
+      "label": "Friday the 13th",
+      "sitelinks": 12,
+      "imdbId": "tt0295269",
+      "source": "wikidata",
+      "imdbVotes": 441,
+      "igdbEngagement": 0,
+      "popularityScore": 38.45422269349092
+    },
+    {
+      "qid": "Q30247040",
+      "label": "Just Dance 2018",
+      "sitelinks": 18,
+      "imdbId": "tt7694078",
+      "source": "wikidata",
+      "imdbVotes": 110,
+      "igdbEngagement": 0,
+      "popularityScore": 38.453229787866576
+    },
+    {
+      "qid": "Q135921344",
+      "label": "Steal a Brainrot",
+      "sitelinks": 18,
+      "imdbId": "tt37475012",
+      "source": "wikidata",
+      "imdbVotes": 110,
+      "igdbEngagement": 0,
+      "popularityScore": 38.453229787866576
+    },
+    {
+      "qid": "Q264736",
+      "label": "Crouching Tiger, Hidden Dragon",
+      "sitelinks": 6,
+      "imdbId": "tt0795363",
+      "source": "wikidata",
+      "imdbVotes": 1755,
+      "igdbEngagement": 0,
+      "popularityScore": 38.445245115700835
+    },
+    {
+      "qid": "Q549466",
+      "label": "Harvester",
+      "sitelinks": 14,
+      "imdbId": "tt0219075",
+      "source": "wikidata",
+      "imdbVotes": 277,
+      "igdbEngagement": 0,
+      "popularityScore": 38.44044795918076
+    },
+    {
+      "qid": "Q29344585",
+      "label": "Guardians of the Galaxy: The Telltale Series",
+      "sitelinks": 8,
+      "imdbId": "tt6636812",
+      "source": "wikidata",
+      "imdbVotes": 1105,
+      "igdbEngagement": 0,
+      "popularityScore": 38.43755126968679
+    },
+    {
+      "qid": "Q20730405",
+      "label": "Mario & Sonic at the Rio 2016 Olympic Games",
+      "sitelinks": 17,
+      "imdbId": "tt4686006",
+      "source": "wikidata",
+      "imdbVotes": 138,
+      "igdbEngagement": 0,
+      "popularityScore": 38.430148002540946
+    },
+    {
+      "qid": "Q1742200",
+      "label": "King's Quest VI: Heir Today, Gone Tomorrow",
+      "sitelinks": 13,
+      "imdbId": "tt0214857",
+      "source": "wikidata",
+      "imdbVotes": 348,
+      "igdbEngagement": 0,
+      "popularityScore": 38.4282542695918
+    },
+    {
+      "qid": "Q1315653",
+      "label": "Ghouls 'n Ghosts",
+      "sitelinks": 14,
+      "imdbId": "tt0290629",
+      "source": "wikidata",
+      "imdbVotes": 276,
+      "igdbEngagement": 0,
+      "popularityScore": 38.42479769064448
+    },
+    {
+      "qid": "Q30749509",
+      "label": "Metroid Prime 4: Beyond",
+      "sitelinks": 15,
+      "imdbId": "tt7012370",
+      "source": "wikidata",
+      "imdbVotes": 219,
+      "igdbEngagement": 0,
+      "popularityScore": 38.42422680822206
+    },
+    {
+      "qid": "Q47474030",
+      "label": "Two Point Hospital",
+      "sitelinks": 15,
+      "imdbId": "tt8919602",
+      "source": "wikidata",
+      "imdbVotes": 219,
+      "igdbEngagement": 0,
+      "popularityScore": 38.42422680822206
+    },
+    {
+      "qid": "Q3098037",
+      "label": "Turok 2: Seeds of Evil",
+      "sitelinks": 11,
+      "imdbId": "tt0283087",
+      "source": "wikidata",
+      "imdbVotes": 551,
+      "igdbEngagement": 0,
+      "popularityScore": 38.419390777291994
+    },
+    {
+      "qid": "Q1328124",
+      "label": "Yoshi's Cookie",
+      "sitelinks": 18,
+      "imdbId": "tt0298610",
+      "source": "wikidata",
+      "imdbVotes": 109,
+      "igdbEngagement": 0,
+      "popularityScore": 38.41392685158225
+    },
+    {
+      "qid": "Q55272",
+      "label": "Star Wars Galaxies",
+      "sitelinks": 15,
+      "imdbId": "tt0292255",
+      "source": "wikidata",
+      "imdbVotes": 218,
+      "igdbEngagement": 0,
+      "popularityScore": 38.40444114840118
+    },
+    {
+      "qid": "Q967634",
+      "label": "Rise of Nations: Rise of Legends",
+      "sitelinks": 17,
+      "imdbId": "tt0839970",
+      "source": "wikidata",
+      "imdbVotes": 137,
+      "igdbEngagement": 0,
+      "popularityScore": 38.39879086401237
+    },
+    {
+      "qid": "Q2891460",
+      "label": "Batman: Rise of Sin Tzu",
+      "sitelinks": 12,
+      "imdbId": "tt0395109",
+      "source": "wikidata",
+      "imdbVotes": 434,
+      "igdbEngagement": 0,
+      "popularityScore": 38.38489256954637
+    },
+    {
+      "qid": "Q2605569",
+      "label": "WWE SmackDown! Shut Your Mouth",
+      "sitelinks": 12,
+      "imdbId": "tt0324485",
+      "source": "wikidata",
+      "imdbVotes": 434,
+      "igdbEngagement": 0,
+      "popularityScore": 38.38489256954637
+    },
+    {
+      "qid": "Q765359",
+      "label": "Sherlock Holmes Versus Jack the Ripper",
+      "sitelinks": 16,
+      "imdbId": "tt1347005",
+      "source": "wikidata",
+      "imdbVotes": 172,
+      "igdbEngagement": 0,
+      "popularityScore": 38.38046103128795
+    },
+    {
+      "qid": "Q2292272",
+      "label": "Skies of Arcadia",
+      "sitelinks": 13,
+      "imdbId": "tt0363595",
+      "source": "wikidata",
+      "imdbVotes": 342,
+      "igdbEngagement": 0,
+      "popularityScore": 38.35294120042771
+    },
+    {
+      "qid": "Q2452625",
+      "label": "Commandos 3: Destination Berlin",
+      "sitelinks": 14,
+      "imdbId": "tt0384003",
+      "source": "wikidata",
+      "imdbVotes": 271,
+      "igdbEngagement": 0,
+      "popularityScore": 38.34568904034199
+    },
+    {
+      "qid": "Q2743083",
+      "label": "Mega Man X7",
+      "sitelinks": 14,
+      "imdbId": "tt0384475",
+      "source": "wikidata",
+      "imdbVotes": 271,
+      "igdbEngagement": 0,
+      "popularityScore": 38.34568904034199
+    },
+    {
+      "qid": "Q577926",
+      "label": "Earthworm Jim 2",
+      "sitelinks": 13,
+      "imdbId": "tt0366396",
+      "source": "wikidata",
+      "imdbVotes": 341,
+      "igdbEngagement": 0,
+      "popularityScore": 38.340261060561346
+    },
+    {
+      "qid": "Q15933494",
+      "label": "Danganronpa Another Episode: Ultra Despair Girls",
+      "sitelinks": 12,
+      "imdbId": "tt4229138",
+      "source": "wikidata",
+      "imdbVotes": 429,
+      "igdbEngagement": 0,
+      "popularityScore": 38.33468455579587
+    },
+    {
+      "qid": "Q1063810",
+      "label": "Jet Set Radio Future",
+      "sitelinks": 13,
+      "imdbId": "tt0325652",
+      "source": "wikidata",
+      "imdbVotes": 340,
+      "igdbEngagement": 0,
+      "popularityScore": 38.327543789924974
+    },
+    {
+      "qid": "Q692320",
+      "label": "Syphon Filter 3",
+      "sitelinks": 12,
+      "imdbId": "tt0287740",
+      "source": "wikidata",
+      "imdbVotes": 427,
+      "igdbEngagement": 0,
+      "popularityScore": 38.314437690131726
+    },
+    {
+      "qid": "Q68573911",
+      "label": "Green Hell",
+      "sitelinks": 14,
+      "imdbId": "tt10653442",
+      "source": "wikidata",
+      "imdbVotes": 269,
+      "igdbEngagement": 0,
+      "popularityScore": 38.31363764158988
+    },
+    {
+      "qid": "Q2570333",
+      "label": "Avatar: The Last Airbender – Into the Inferno",
+      "sitelinks": 15,
+      "imdbId": "tt1459460",
+      "source": "wikidata",
+      "imdbVotes": 213,
+      "igdbEngagement": 0,
+      "popularityScore": 38.30413773349191
+    },
+    {
+      "qid": "Q1255566",
+      "label": "Drakengard",
+      "sitelinks": 15,
+      "imdbId": "tt0402976",
+      "source": "wikidata",
+      "imdbVotes": 213,
+      "igdbEngagement": 0,
+      "popularityScore": 38.30413773349191
+    },
+    {
+      "qid": "Q864026",
+      "label": "World Cup 98",
+      "sitelinks": 17,
+      "imdbId": "tt0843622",
+      "source": "wikidata",
+      "imdbVotes": 134,
+      "igdbEngagement": 0,
+      "popularityScore": 38.303337684950066
+    },
+    {
+      "qid": "Q1987129",
+      "label": "The Simpsons Wrestling",
+      "sitelinks": 13,
+      "imdbId": "tt0282976",
+      "source": "wikidata",
+      "imdbVotes": 337,
+      "igdbEngagement": 0,
+      "popularityScore": 38.28916700277655
+    },
+    {
+      "qid": "Q1742194",
+      "label": "King's Quest I",
+      "sitelinks": 16,
+      "imdbId": "tt0244587",
+      "source": "wikidata",
+      "imdbVotes": 168,
+      "igdbEngagement": 0,
+      "popularityScore": 38.27886704613674
+    },
+    {
+      "qid": "Q2521652",
+      "label": "Zelda's Adventure",
+      "sitelinks": 11,
+      "imdbId": "tt0934623",
+      "source": "wikidata",
+      "imdbVotes": 533,
+      "igdbEngagement": 0,
+      "popularityScore": 38.27541257028556
+    },
+    {
+      "qid": "Q773661",
+      "label": "Wet",
+      "sitelinks": 11,
+      "imdbId": "tt1171270",
+      "source": "wikidata",
+      "imdbVotes": 530,
+      "igdbEngagement": 0,
+      "popularityScore": 38.25094521081469
+    },
+    {
+      "qid": "Q2598607",
+      "label": "Mortal Kombat Gold",
+      "sitelinks": 13,
+      "imdbId": "tt0214964",
+      "source": "wikidata",
+      "imdbVotes": 334,
+      "igdbEngagement": 0,
+      "popularityScore": 38.25044807036845
+    },
+    {
+      "qid": "Q96357198",
+      "label": "New Pokémon Snap",
+      "sitelinks": 15,
+      "imdbId": "tt12564552",
+      "source": "wikidata",
+      "imdbVotes": 210,
+      "igdbEngagement": 0,
+      "popularityScore": 38.24282455297693
+    },
+    {
+      "qid": "Q6332857",
+      "label": "Starbound",
+      "sitelinks": 17,
+      "imdbId": "tt3569576",
+      "source": "wikidata",
+      "imdbVotes": 132,
+      "igdbEngagement": 0,
+      "popularityScore": 38.23851640967086
+    },
+    {
+      "qid": "Q2080333",
+      "label": "Scott Pilgrim vs. the World: The Game",
+      "sitelinks": 11,
+      "imdbId": "tt1628764",
+      "source": "wikidata",
+      "imdbVotes": 528,
+      "igdbEngagement": 0,
+      "popularityScore": 38.23455672035186
+    },
+    {
+      "qid": "Q3460038",
+      "label": "SSX 3",
+      "sitelinks": 12,
+      "imdbId": "tt0400787",
+      "source": "wikidata",
+      "imdbVotes": 419,
+      "igdbEngagement": 0,
+      "popularityScore": 38.23249290397901
+    },
+    {
+      "qid": "Q2467881",
+      "label": "Mega Man X8",
+      "sitelinks": 14,
+      "imdbId": "tt0443622",
+      "source": "wikidata",
+      "imdbVotes": 264,
+      "igdbEngagement": 0,
+      "popularityScore": 38.23245873936808
+    },
+    {
+      "qid": "Q576283",
+      "label": "Infamous: Festival of Blood",
+      "sitelinks": 11,
+      "imdbId": "tt2117889",
+      "source": "wikidata",
+      "imdbVotes": 524,
+      "igdbEngagement": 0,
+      "popularityScore": 38.20159303405957
+    },
+    {
+      "qid": "Q56322867",
+      "label": "Dead or Alive 6",
+      "sitelinks": 14,
+      "imdbId": "tt9854756",
+      "source": "wikidata",
+      "imdbVotes": 262,
+      "igdbEngagement": 0,
+      "popularityScore": 38.19955748489758
+    },
+    {
+      "qid": "Q2154888",
+      "label": "Ristar",
+      "sitelinks": 14,
+      "imdbId": "tt0424393",
+      "source": "wikidata",
+      "imdbVotes": 260,
+      "igdbEngagement": 0,
+      "popularityScore": 38.166405073382805
+    },
+    {
+      "qid": "Q1757845",
+      "label": "Sacred",
+      "sitelinks": 15,
+      "imdbId": "tt0423108",
+      "source": "wikidata",
+      "imdbVotes": 206,
+      "igdbEngagement": 0,
+      "popularityScore": 38.15970345456918
+    },
+    {
+      "qid": "Q18536882",
+      "label": "Sonic Boom: Shattered Crystal",
+      "sitelinks": 10,
+      "imdbId": "tt4791966",
+      "source": "wikidata",
+      "imdbVotes": 649,
+      "igdbEngagement": 0,
+      "popularityScore": 38.12913356642856
+    },
+    {
+      "qid": "Q880945",
+      "label": "Blackthorne",
+      "sitelinks": 18,
+      "imdbId": "tt0442656",
+      "source": "wikidata",
+      "imdbVotes": 102,
+      "igdbEngagement": 0,
+      "popularityScore": 38.12837224705172
+    },
+    {
+      "qid": "Q672172",
+      "label": "Sonic Jam",
+      "sitelinks": 18,
+      "imdbId": "tt0424454",
+      "source": "wikidata",
+      "imdbVotes": 102,
+      "igdbEngagement": 0,
+      "popularityScore": 38.12837224705172
+    },
+    {
+      "qid": "Q55078485",
+      "label": "My Friend Pedro",
+      "sitelinks": 10,
+      "imdbId": "tt10324460",
+      "source": "wikidata",
+      "imdbVotes": 648,
+      "igdbEngagement": 0,
+      "popularityScore": 38.12244696800369
+    },
+    {
+      "qid": "Q24877479",
+      "label": "Rain World",
+      "sitelinks": 16,
+      "imdbId": "tt13743956",
+      "source": "wikidata",
+      "imdbVotes": 162,
+      "igdbEngagement": 0,
+      "popularityScore": 38.12187604403958
+    },
+    {
+      "qid": "Q105552962",
+      "label": "Mario Golf: Super Rush",
+      "sitelinks": 15,
+      "imdbId": "tt14075266",
+      "source": "wikidata",
+      "imdbVotes": 204,
+      "igdbEngagement": 0,
+      "popularityScore": 38.117538610557546
+    },
+    {
+      "qid": "Q625305",
+      "label": "Golden Axe III",
+      "sitelinks": 13,
+      "imdbId": "tt0475592",
+      "source": "wikidata",
+      "imdbVotes": 323,
+      "igdbEngagement": 0,
+      "popularityScore": 38.10545010206612
+    },
+    {
+      "qid": "Q1575181",
+      "label": "Skate 2",
+      "sitelinks": 13,
+      "imdbId": "tt4551638",
+      "source": "wikidata",
+      "imdbVotes": 323,
+      "igdbEngagement": 0,
+      "popularityScore": 38.10545010206612
+    },
+    {
+      "qid": "Q1343613",
+      "label": "Garou: Mark of the Wolves",
+      "sitelinks": 15,
+      "imdbId": "tt0372936",
+      "source": "wikidata",
+      "imdbVotes": 203,
+      "igdbEngagement": 0,
+      "popularityScore": 38.09630167425899
+    },
+    {
+      "qid": "Q55312",
+      "label": "Star Wars: TIE Fighter",
+      "sitelinks": 11,
+      "imdbId": "tt0153067",
+      "source": "wikidata",
+      "imdbVotes": 511,
+      "igdbEngagement": 0,
+      "popularityScore": 38.09269960975831
+    },
+    {
+      "qid": "Q1274056",
+      "label": "Shadow Man",
+      "sitelinks": 13,
+      "imdbId": "tt0292231",
+      "source": "wikidata",
+      "imdbVotes": 322,
+      "igdbEngagement": 0,
+      "popularityScore": 38.092025223311026
+    },
+    {
+      "qid": "Q2517563",
+      "label": "Mario Is Missing!",
+      "sitelinks": 14,
+      "imdbId": "tt0221381",
+      "source": "wikidata",
+      "imdbVotes": 255,
+      "igdbEngagement": 0,
+      "popularityScore": 38.0823996531185
+    },
+    {
+      "qid": "Q1091127",
+      "label": "Oddworld: Munch's Oddysee",
+      "sitelinks": 14,
+      "imdbId": "tt0253369",
+      "source": "wikidata",
+      "imdbVotes": 255,
+      "igdbEngagement": 0,
+      "popularityScore": 38.0823996531185
+    },
+    {
+      "qid": "Q28308496",
+      "label": "Detention",
+      "sitelinks": 17,
+      "imdbId": "tt14596884",
+      "source": "wikidata",
+      "imdbVotes": 127,
+      "igdbEngagement": 0,
+      "popularityScore": 38.07209969647869
+    },
+    {
+      "qid": "Q691462",
+      "label": "Leisure Suit Larry: Love for Sail!",
+      "sitelinks": 13,
+      "imdbId": "tt0221340",
+      "source": "wikidata",
+      "imdbVotes": 320,
+      "igdbEngagement": 0,
+      "popularityScore": 38.06505032404872
+    },
+    {
+      "qid": "Q2308021",
+      "label": "50 Cent: Bulletproof",
+      "sitelinks": 10,
+      "imdbId": "tt0450955",
+      "source": "wikidata",
+      "imdbVotes": 637,
+      "igdbEngagement": 0,
+      "popularityScore": 38.048206787211626
+    },
+    {
+      "qid": "Q2527245",
+      "label": "Call of Juarez: The Cartel",
+      "sitelinks": 12,
+      "imdbId": "tt1996207",
+      "source": "wikidata",
+      "imdbVotes": 401,
+      "igdbEngagement": 0,
+      "popularityScore": 38.0422605308447
+    },
+    {
+      "qid": "Q1325028",
+      "label": "Elasto Mania",
+      "sitelinks": 17,
+      "imdbId": "tt0852642",
+      "source": "wikidata",
+      "imdbVotes": 126,
+      "igdbEngagement": 0,
+      "popularityScore": 38.03803720955957
+    },
+    {
+      "qid": "Q2377020",
+      "label": "SSX Tricky",
+      "sitelinks": 10,
+      "imdbId": "tt0301792",
+      "source": "wikidata",
+      "imdbVotes": 633,
+      "igdbEngagement": 0,
+      "popularityScore": 38.020892578817325
+    },
+    {
+      "qid": "Q15707420",
+      "label": "Flappy Bird",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q16190030",
+      "label": "Geometry Dash",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q15984270",
+      "label": "Hay Day",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q2452886",
+      "label": "Castlevania: Order of Ecclesia",
+      "sitelinks": 15,
+      "imdbId": "tt2051817",
+      "source": "wikidata",
+      "imdbVotes": 198,
+      "igdbEngagement": 0,
+      "popularityScore": 37.988530764097064
+    },
+    {
+      "qid": "Q28450801",
+      "label": "Fire Emblem Echoes: Shadows of Valentia",
+      "sitelinks": 14,
+      "imdbId": "tt6451234",
+      "source": "wikidata",
+      "imdbVotes": 249,
+      "igdbEngagement": 0,
+      "popularityScore": 37.979400086720375
+    },
+    {
+      "qid": "Q1630875",
+      "label": "Track & Field",
+      "sitelinks": 17,
+      "imdbId": "tt0186634",
+      "source": "wikidata",
+      "imdbVotes": 124,
+      "igdbEngagement": 0,
+      "popularityScore": 37.96910013008056
+    },
+    {
+      "qid": "Q2324928",
+      "label": "Gran Turismo 5 Prologue",
+      "sitelinks": 15,
+      "imdbId": "tt1601830",
+      "source": "wikidata",
+      "imdbVotes": 197,
+      "igdbEngagement": 0,
+      "popularityScore": 37.96665190261531
+    },
+    {
+      "qid": "Q1109914",
+      "label": "Pokémon Puzzle League",
+      "sitelinks": 16,
+      "imdbId": "tt0305969",
+      "source": "wikidata",
+      "imdbVotes": 156,
+      "igdbEngagement": 0,
+      "popularityScore": 37.958996524092335
+    },
+    {
+      "qid": "Q27067490",
+      "label": "Batman: Arkham VR",
+      "sitelinks": 11,
+      "imdbId": "tt5807562",
+      "source": "wikidata",
+      "imdbVotes": 495,
+      "igdbEngagement": 0,
+      "popularityScore": 37.95481676490198
+    },
+    {
+      "qid": "Q2559819",
+      "label": "Marvel Super Heroes",
+      "sitelinks": 13,
+      "imdbId": "tt0210831",
+      "source": "wikidata",
+      "imdbVotes": 311,
+      "igdbEngagement": 0,
+      "popularityScore": 37.941545940184426
+    },
+    {
+      "qid": "Q1736788",
+      "label": "Robotron: 2084",
+      "sitelinks": 17,
+      "imdbId": "tt0314583",
+      "source": "wikidata",
+      "imdbVotes": 123,
+      "igdbEngagement": 0,
+      "popularityScore": 37.93421685162235
+    },
+    {
+      "qid": "Q2265766",
+      "label": "Ghost Rider",
+      "sitelinks": 12,
+      "imdbId": "tt1038023",
+      "source": "wikidata",
+      "imdbVotes": 389,
+      "igdbEngagement": 0,
+      "popularityScore": 37.91064607026499
+    },
+    {
+      "qid": "Q1069752",
+      "label": "Gunstar Heroes",
+      "sitelinks": 14,
+      "imdbId": "tt0489066",
+      "source": "wikidata",
+      "imdbVotes": 244,
+      "igdbEngagement": 0,
+      "popularityScore": 37.891660843645326
+    },
+    {
+      "qid": "Q117353776",
+      "label": "The Murder of Sonic the Hedgehog",
+      "sitelinks": 14,
+      "imdbId": "tt27405732",
+      "source": "wikidata",
+      "imdbVotes": 244,
+      "igdbEngagement": 0,
+      "popularityScore": 37.891660843645326
+    },
+    {
+      "qid": "Q56809272",
+      "label": "New Super Mario Bros. U Deluxe",
+      "sitelinks": 7,
+      "imdbId": "tt9630194",
+      "source": "wikidata",
+      "imdbVotes": 1224,
+      "igdbEngagement": 0,
+      "popularityScore": 37.88136088700551
+    },
+    {
+      "qid": "Q23008476",
+      "label": "The Legend of Zelda: Twilight Princess HD",
+      "sitelinks": 9,
+      "imdbId": "tt5424110",
+      "source": "wikidata",
+      "imdbVotes": 769,
+      "igdbEngagement": 0,
+      "popularityScore": 37.864907251724816
+    },
+    {
+      "qid": "Q3230288",
+      "label": "Disney's 102 Dalmatians: Puppies to the Rescue",
+      "sitelinks": 14,
+      "imdbId": "tt0272423",
+      "source": "wikidata",
+      "imdbVotes": 242,
+      "igdbEngagement": 0,
+      "popularityScore": 37.85606273598312
+    },
+    {
+      "qid": "Q3282068",
+      "label": "Resident Evil Survivor 2 – Code: Veronica",
+      "sitelinks": 15,
+      "imdbId": "tt3381024",
+      "source": "wikidata",
+      "imdbVotes": 192,
+      "igdbEngagement": 0,
+      "popularityScore": 37.85557309007774
+    },
+    {
+      "qid": "Q2697453",
+      "label": "Wario World",
+      "sitelinks": 15,
+      "imdbId": "tt0324498",
+      "source": "wikidata",
+      "imdbVotes": 192,
+      "igdbEngagement": 0,
+      "popularityScore": 37.85557309007774
+    },
+    {
+      "qid": "Q2067196",
+      "label": "Kinect Star Wars",
+      "sitelinks": 13,
+      "imdbId": "tt2316779",
+      "source": "wikidata",
+      "imdbVotes": 303,
+      "igdbEngagement": 0,
+      "popularityScore": 37.82873583608754
+    },
+    {
+      "qid": "Q2336957",
+      "label": "Worms 4: Mayhem",
+      "sitelinks": 17,
+      "imdbId": "tt2822004",
+      "source": "wikidata",
+      "imdbVotes": 120,
+      "igdbEngagement": 0,
+      "popularityScore": 37.8278537031645
+    },
+    {
+      "qid": "Q20762666",
+      "label": "Crackdown 3",
+      "sitelinks": 13,
+      "imdbId": "tt6528200",
+      "source": "wikidata",
+      "imdbVotes": 302,
+      "igdbEngagement": 0,
+      "popularityScore": 37.814426285023046
+    },
+    {
+      "qid": "Q14803834",
+      "label": "Mighty No. 9",
+      "sitelinks": 14,
+      "imdbId": "tt3158298",
+      "source": "wikidata",
+      "imdbVotes": 239,
+      "igdbEngagement": 0,
+      "popularityScore": 37.802112417116064
+    },
+    {
+      "qid": "Q964374",
+      "label": "WWF SmackDown! 2: Know Your Role",
+      "sitelinks": 11,
+      "imdbId": "tt0266026",
+      "source": "wikidata",
+      "imdbVotes": 477,
+      "igdbEngagement": 0,
+      "popularityScore": 37.79427896612118
+    },
+    {
+      "qid": "Q2268695",
+      "label": "Buffy the Vampire Slayer: Chaos Bleeds",
+      "sitelinks": 10,
+      "imdbId": "tt0365022",
+      "source": "wikidata",
+      "imdbVotes": 600,
+      "igdbEngagement": 0,
+      "popularityScore": 37.788744720027395
+    },
+    {
+      "qid": "Q1331028",
+      "label": "Homeworld 2",
+      "sitelinks": 15,
+      "imdbId": "tt0387289",
+      "source": "wikidata",
+      "imdbVotes": 189,
+      "igdbEngagement": 0,
+      "popularityScore": 37.78753600952829
+    },
+    {
+      "qid": "Q2560167",
+      "label": "Red Faction: Armageddon",
+      "sitelinks": 11,
+      "imdbId": "tt1727537",
+      "source": "wikidata",
+      "imdbVotes": 476,
+      "igdbEngagement": 0,
+      "popularityScore": 37.785183790401135
+    },
+    {
+      "qid": "Q107208619",
+      "label": "Mario + Rabbids Sparks of Hope",
+      "sitelinks": 14,
+      "imdbId": "tt14866060",
+      "source": "wikidata",
+      "imdbVotes": 238,
+      "igdbEngagement": 0,
+      "popularityScore": 37.78397900948137
+    },
+    {
+      "qid": "Q2669580",
+      "label": "10-Yard Fight",
+      "sitelinks": 20,
+      "imdbId": "tt0185834",
+      "source": "wikidata",
+      "imdbVotes": 59,
+      "igdbEngagement": 0,
+      "popularityScore": 37.78151250383644
+    },
+    {
+      "qid": "Q258530",
+      "label": "Knights of Honor",
+      "sitelinks": 20,
+      "imdbId": "tt1135039",
+      "source": "wikidata",
+      "imdbVotes": 59,
+      "igdbEngagement": 0,
+      "popularityScore": 37.78151250383644
+    },
+    {
+      "qid": "Q2525527",
+      "label": "The Suffering: Ties That Bind",
+      "sitelinks": 11,
+      "imdbId": "tt0446042",
+      "source": "wikidata",
+      "imdbVotes": 474,
+      "igdbEngagement": 0,
+      "popularityScore": 37.76693609624866
+    },
+    {
+      "qid": "Q1206683",
+      "label": "The King of Fighters XIII",
+      "sitelinks": 14,
+      "imdbId": "tt1704285",
+      "source": "wikidata",
+      "imdbVotes": 237,
+      "igdbEngagement": 0,
+      "popularityScore": 37.76576957056512
+    },
+    {
+      "qid": "Q1191215",
+      "label": "Tales of Phantasia",
+      "sitelinks": 16,
+      "imdbId": "tt0371285",
+      "source": "wikidata",
+      "imdbVotes": 149,
+      "igdbEngagement": 0,
+      "popularityScore": 37.76091259055681
+    },
+    {
+      "qid": "Q2656687",
+      "label": "Sonic Drift 2",
+      "sitelinks": 17,
+      "imdbId": "tt0424453",
+      "source": "wikidata",
+      "imdbVotes": 118,
+      "igdbEngagement": 0,
+      "popularityScore": 37.755469613925314
+    }
+  ]
+}

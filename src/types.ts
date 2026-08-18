@@ -1,0 +1,10 @@
+export type Item = { id: string; label: string; source?: string };
+export type Answer = 'left'|'right'|'tie'|'unavailable-left'|'unavailable-right';
+export type Rating = { score: number; comparisons: number };
+export type Comparison = { leftId: string; rightId: string; outcome: Exclude<Answer, 'unavailable-left'|'unavailable-right'> };
+export type Activity = { kind: 'normal'|'refine-list'|'refine-item'|'refine-top'|'refine-bottom'; itemId?: string; poolIds?: string[]; targetConfidence?: number };
+export type CatalogProgress = { id: string; nextChunk: number; nextItem: number; totalChunks?: number; source: 'static'|'starter' };
+export type RankingState = { ratings: Record<string, Rating>; comparisons: Comparison[]; current?: { leftId: string; rightId: string }; carry?: { itemId: string; side: 'left'|'right' }; replacementDue?: boolean; activity: Activity; normalAnswers: number; trickleDue?: boolean };
+export type SortList = { id: string; name: string; items: Item[]; unrankedIds: string[]; ranking: RankingState; catalog?: CatalogProgress; createdAt: string; updatedAt: string };
+export type Catalog = { id: string; name: string; description: string; totalItems: number; items: string[]; source: string; version: string };
+export type CatalogManifest = { id: string; totalItems: number; batchSize: number; chunks: Array<{ file: string; count: number }> };

@@ -1,0 +1,159 @@
+{
+  "id": "foods",
+  "name": "All Foods",
+  "description": "Wikidata-derived catalog of dishes, street foods, desserts, snacks, and beverages.",
+  "source": "Wikidata Query Service",
+  "generatedAt": "2026-08-18T20:30:55.286Z",
+  "version": "2026-08-18",
+  "totalItems": 3352,
+  "batchSize": 100,
+  "chunks": [
+    {
+      "file": "001.json",
+      "count": 100
+    },
+    {
+      "file": "002.json",
+      "count": 100
+    },
+    {
+      "file": "003.json",
+      "count": 100
+    },
+    {
+      "file": "004.json",
+      "count": 100
+    },
+    {
+      "file": "005.json",
+      "count": 100
+    },
+    {
+      "file": "006.json",
+      "count": 100
+    },
+    {
+      "file": "007.json",
+      "count": 100
+    },
+    {
+      "file": "008.json",
+      "count": 100
+    },
+    {
+      "file": "009.json",
+      "count": 100
+    },
+    {
+      "file": "010.json",
+      "count": 100
+    },
+    {
+      "file": "011.json",
+      "count": 100
+    },
+    {
+      "file": "012.json",
+      "count": 100
+    },
+    {
+      "file": "013.json",
+      "count": 100
+    },
+    {
+      "file": "014.json",
+      "count": 100
+    },
+    {
+      "file": "015.json",
+      "count": 100
+    },
+    {
+      "file": "016.json",
+      "count": 100
+    },
+    {
+      "file": "017.json",
+      "count": 100
+    },
+    {
+      "file": "018.json",
+      "count": 100
+    },
+    {
+      "file": "019.json",
+      "count": 100
+    },
+    {
+      "file": "020.json",
+      "count": 100
+    },
+    {
+      "file": "021.json",
+      "count": 100
+    },
+    {
+      "file": "022.json",
+      "count": 100
+    },
+    {
+      "file": "023.json",
+      "count": 100
+    },
+    {
+      "file": "024.json",
+      "count": 100
+    },
+    {
+      "file": "025.json",
+      "count": 100
+    },
+    {
+      "file": "026.json",
+      "count": 100
+    },
+    {
+      "file": "027.json",
+      "count": 100
+    },
+    {
+      "file": "028.json",
+      "count": 100
+    },
+    {
+      "file": "029.json",
+      "count": 100
+    },
+    {
+      "file": "030.json",
+      "count": 100
+    },
+    {
+      "file": "031.json",
+      "count": 100
+    },
+    {
+      "file": "032.json",
+      "count": 100
+    },
+    {
+      "file": "033.json",
+      "count": 100
+    },
+    {
+      "file": "034.json",
+      "count": 52
+    }
+  ],
+  "inclusionRoots": [
+    "Q746549",
+    "Q1316209",
+    "Q182940",
+    "Q749316",
+    "Q40050"
+  ],
+  "overrides": {
+    "included": 0,
+    "excluded": 0
+  }
+}

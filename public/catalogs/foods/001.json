@@ -1,0 +1,906 @@
+{
+  "catalogId": "foods",
+  "index": 0,
+  "items": [
+    {
+      "qid": "Q6663",
+      "label": "hamburger",
+      "sitelinks": 118,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 118
+    },
+    {
+      "qid": "Q491517",
+      "label": "samosa",
+      "sitelinks": 90,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 90
+    },
+    {
+      "qid": "Q187495",
+      "label": "baklava",
+      "sitelinks": 89,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 89
+    },
+    {
+      "qid": "Q188788",
+      "label": "falafel",
+      "sitelinks": 87,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 87
+    },
+    {
+      "qid": "Q271555",
+      "label": "biryani",
+      "sitelinks": 84,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 84
+    },
+    {
+      "qid": "Q20034",
+      "label": "lasagna",
+      "sitelinks": 81,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 81
+    },
+    {
+      "qid": "Q205762",
+      "label": "goulash",
+      "sitelinks": 74,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 74
+    },
+    {
+      "qid": "Q375",
+      "label": "waffle",
+      "sitelinks": 68,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 68
+    },
+    {
+      "qid": "Q44541",
+      "label": "pancake",
+      "sitelinks": 67,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 67
+    },
+    {
+      "qid": "Q281278",
+      "label": "Olivier salad",
+      "sitelinks": 66,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 66
+    },
+    {
+      "qid": "Q192892",
+      "label": "ayran",
+      "sitelinks": 65,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 65
+    },
+    {
+      "qid": "Q715858",
+      "label": "bubble tea",
+      "sitelinks": 64,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 64
+    },
+    {
+      "qid": "Q12200",
+      "label": "crêpe",
+      "sitelinks": 64,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 64
+    },
+    {
+      "qid": "Q182339",
+      "label": "Turkish delight",
+      "sitelinks": 62,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 62
+    },
+    {
+      "qid": "Q839492",
+      "label": "palm wine",
+      "sitelinks": 61,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 61
+    },
+    {
+      "qid": "Q390823",
+      "label": "burrito",
+      "sitelinks": 58,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 58
+    },
+    {
+      "qid": "Q876624",
+      "label": "carbonara",
+      "sitelinks": 58,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 58
+    },
+    {
+      "qid": "Q827654",
+      "label": "lassi",
+      "sitelinks": 58,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 58
+    },
+    {
+      "qid": "Q1126275",
+      "label": "pakora",
+      "sitelinks": 56,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 56
+    },
+    {
+      "qid": "Q52406",
+      "label": "muesli",
+      "sitelinks": 54,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 54
+    },
+    {
+      "qid": "Q648352",
+      "label": "bibimbap",
+      "sitelinks": 53,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 53
+    },
+    {
+      "qid": "Q598222",
+      "label": "bigos",
+      "sitelinks": 52,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 52
+    },
+    {
+      "qid": "Q975953",
+      "label": "almond milk",
+      "sitelinks": 50,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 50
+    },
+    {
+      "qid": "Q863794",
+      "label": "chili",
+      "sitelinks": 50,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 50
+    },
+    {
+      "qid": "Q152981",
+      "label": "potato pancake",
+      "sitelinks": 50,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 50
+    },
+    {
+      "qid": "Q1076874",
+      "label": "fried rice",
+      "sitelinks": 49,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 49
+    },
+    {
+      "qid": "Q941004",
+      "label": "fufu",
+      "sitelinks": 49,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 49
+    },
+    {
+      "qid": "Q865004",
+      "label": "tajine",
+      "sitelinks": 48,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 48
+    },
+    {
+      "qid": "Q523224",
+      "label": "cooked rice",
+      "sitelinks": 47,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 47
+    },
+    {
+      "qid": "Q747457",
+      "label": "empanada",
+      "sitelinks": 47,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 47
+    },
+    {
+      "qid": "Q495360",
+      "label": "gimbap",
+      "sitelinks": 47,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 47
+    },
+    {
+      "qid": "Q30186",
+      "label": "chocolate cake",
+      "sitelinks": 46,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 46
+    },
+    {
+      "qid": "Q262796",
+      "label": "manti",
+      "sitelinks": 46,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 46
+    },
+    {
+      "qid": "Q1147853",
+      "label": "tamale",
+      "sitelinks": 45,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 45
+    },
+    {
+      "qid": "Q865325",
+      "label": "quesadilla",
+      "sitelinks": 44,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 44
+    },
+    {
+      "qid": "Q905527",
+      "label": "takoyaki",
+      "sitelinks": 44,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 44
+    },
+    {
+      "qid": "Q828043",
+      "label": "bouillabaisse",
+      "sitelinks": 43,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 43
+    },
+    {
+      "qid": "Q876096",
+      "label": "enchilada",
+      "sitelinks": 43,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 43
+    },
+    {
+      "qid": "Q152834",
+      "label": "fruit salad",
+      "sitelinks": 43,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 43
+    },
+    {
+      "qid": "Q2548021",
+      "label": "appam",
+      "sitelinks": 42,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 42
+    },
+    {
+      "qid": "Q1827035",
+      "label": "lentil soup",
+      "sitelinks": 42,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 42
+    },
+    {
+      "qid": "Q2722122",
+      "label": "Panipuri",
+      "sitelinks": 42,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 42
+    },
+    {
+      "qid": "Q367225",
+      "label": "pea soup",
+      "sitelinks": 42,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 42
+    },
+    {
+      "qid": "Q1414887",
+      "label": "Lamajun",
+      "sitelinks": 41,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 41
+    },
+    {
+      "qid": "Q12491",
+      "label": "mille-feuille",
+      "sitelinks": 41,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 41
+    },
+    {
+      "qid": "Q1432724",
+      "label": "sujuk",
+      "sitelinks": 41,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 41
+    },
+    {
+      "qid": "Q209304",
+      "label": "gado-gado",
+      "sitelinks": 40,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 40
+    },
+    {
+      "qid": "Q575790",
+      "label": "lángos",
+      "sitelinks": 40,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 40
+    },
+    {
+      "qid": "Q1520293",
+      "label": "rendang",
+      "sitelinks": 40,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 40
+    },
+    {
+      "qid": "Q1190475",
+      "label": "tteokbokki",
+      "sitelinks": 40,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 40
+    },
+    {
+      "qid": "Q642702",
+      "label": "arepa",
+      "sitelinks": 39,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 39
+    },
+    {
+      "qid": "Q141293",
+      "label": "dondurma",
+      "sitelinks": 39,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 39
+    },
+    {
+      "qid": "Q590076",
+      "label": "Hawaiian pizza",
+      "sitelinks": 39,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 39
+    },
+    {
+      "qid": "Q1057256",
+      "label": "ossobuco",
+      "sitelinks": 39,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 39
+    },
+    {
+      "qid": "Q192150",
+      "label": "apéritif",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q1364509",
+      "label": "jambalaya",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q2478703",
+      "label": "khichri",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q209486",
+      "label": "Niçard salad",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q130097",
+      "label": "pemmican",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q500724",
+      "label": "Pizza Margherita",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q20065",
+      "label": "spätzle",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q1142841",
+      "label": "tonkatsu",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q136701",
+      "label": "zabaione",
+      "sitelinks": 38,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 38
+    },
+    {
+      "qid": "Q1473422",
+      "label": "ful medames",
+      "sitelinks": 37,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 37
+    },
+    {
+      "qid": "Q1197104",
+      "label": "koshari",
+      "sitelinks": 37,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 37
+    },
+    {
+      "qid": "Q934095",
+      "label": "laksa",
+      "sitelinks": 37,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 37
+    },
+    {
+      "qid": "Q2056399",
+      "label": "pastırma",
+      "sitelinks": 37,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 37
+    },
+    {
+      "qid": "Q860465",
+      "label": "roast beef",
+      "sitelinks": 35,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 35
+    },
+    {
+      "qid": "Q2723131",
+      "label": "Vada",
+      "sitelinks": 35,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 35
+    },
+    {
+      "qid": "Q2317875",
+      "label": "basbousa",
+      "sitelinks": 34,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 34
+    },
+    {
+      "qid": "Q612661",
+      "label": "kalakukko",
+      "sitelinks": 34,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 34
+    },
+    {
+      "qid": "Q1435874",
+      "label": "ugali",
+      "sitelinks": 34,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 34
+    },
+    {
+      "qid": "Q136922",
+      "label": "aşure",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q1195276",
+      "label": "birthday cake",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q2082064",
+      "label": "Consommé",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q1133127",
+      "label": "corn dog",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q718680",
+      "label": "sugarcane juice",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q1726195",
+      "label": "Syrniki",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q316849",
+      "label": "tarte flambée",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q1163791",
+      "label": "Tequila Sunrise",
+      "sitelinks": 33,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 33
+    },
+    {
+      "qid": "Q997633",
+      "label": "amatriciana sauce",
+      "sitelinks": 32,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 32
+    },
+    {
+      "qid": "Q1284887",
+      "label": "red velvet cake",
+      "sitelinks": 32,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 32
+    },
+    {
+      "qid": "Q5702275",
+      "label": "unleavened bread",
+      "sitelinks": 32,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 32
+    },
+    {
+      "qid": "Q1150728",
+      "label": "Arabic coffee",
+      "sitelinks": 31,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 31
+    },
+    {
+      "qid": "Q713869",
+      "label": "grass jelly",
+      "sitelinks": 31,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 31
+    },
+    {
+      "qid": "Q1703796",
+      "label": "Hákarl",
+      "sitelinks": 31,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 31
+    },
+    {
+      "qid": "Q720230",
+      "label": "rojak",
+      "sitelinks": 31,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 31
+    },
+    {
+      "qid": "Q2339814",
+      "label": "s'more",
+      "sitelinks": 31,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 31
+    },
+    {
+      "qid": "Q949948",
+      "label": "sports drink",
+      "sitelinks": 31,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 31
+    },
+    {
+      "qid": "Q540289",
+      "label": "Baked Alaska",
+      "sitelinks": 30,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 30
+    },
+    {
+      "qid": "Q1061604",
+      "label": "chana masala",
+      "sitelinks": 30,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 30
+    },
+    {
+      "qid": "Q11343150",
+      "label": "mehallabiyya",
+      "sitelinks": 30,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 30
+    },
+    {
+      "qid": "Q2635144",
+      "label": "sorrel soup",
+      "sitelinks": 30,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 30
+    },
+    {
+      "qid": "Q1093380",
+      "label": "club sandwich",
+      "sitelinks": 29,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 29
+    },
+    {
+      "qid": "Q995376",
+      "label": "Fabada asturiana",
+      "sitelinks": 29,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 29
+    },
+    {
+      "qid": "Q1465330",
+      "label": "fried ice cream",
+      "sitelinks": 29,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 29
+    },
+    {
+      "qid": "Q862557",
+      "label": "osechi",
+      "sitelinks": 29,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 29
+    },
+    {
+      "qid": "Q618238",
+      "label": "Aperol",
+      "sitelinks": 28,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 28
+    },
+    {
+      "qid": "Q865598",
+      "label": "birch sap",
+      "sitelinks": 28,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 28
+    },
+    {
+      "qid": "Q5016033",
+      "label": "cacio e pepe",
+      "sitelinks": 28,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 28
+    }
+  ]
+}

@@ -1,0 +1,1006 @@
+{
+  "catalogId": "movies",
+  "index": 83,
+  "items": [
+    {
+      "qid": "Q38804949",
+      "label": "Baaghi 2",
+      "sitelinks": 20,
+      "imdbId": "tt6843812",
+      "source": "wikidata",
+      "imdbVotes": 13073,
+      "igdbEngagement": 0,
+      "popularityScore": 61.164084806298995
+    },
+    {
+      "qid": "Q1287979",
+      "label": "Love Wrecked",
+      "sitelinks": 19,
+      "imdbId": "tt0409011",
+      "source": "wikidata",
+      "imdbVotes": 16456,
+      "igdbEngagement": 0,
+      "popularityScore": 61.16350669139196
+    },
+    {
+      "qid": "Q880396",
+      "label": "Black Mask",
+      "sitelinks": 20,
+      "imdbId": "tt0115693",
+      "source": "wikidata",
+      "imdbVotes": 13047,
+      "igdbEngagement": 0,
+      "popularityScore": 61.155439480322194
+    },
+    {
+      "qid": "Q223043",
+      "label": "A Patch of Blue",
+      "sitelinks": 21,
+      "imdbId": "tt0059573",
+      "source": "wikidata",
+      "imdbVotes": 10350,
+      "igdbEngagement": 0,
+      "popularityScore": 61.14982308585482
+    },
+    {
+      "qid": "Q2721763",
+      "label": "Husbands",
+      "sitelinks": 22,
+      "imdbId": "tt0065867",
+      "source": "wikidata",
+      "imdbVotes": 8220,
+      "igdbEngagement": 0,
+      "popularityScore": 61.14924648205148
+    },
+    {
+      "qid": "Q701483",
+      "label": "My Mom's New Boyfriend",
+      "sitelinks": 20,
+      "imdbId": "tt0780534",
+      "source": "wikidata",
+      "imdbVotes": 13013,
+      "igdbEngagement": 0,
+      "popularityScore": 61.14410802397836
+    },
+    {
+      "qid": "Q597579",
+      "label": "Double Trouble",
+      "sitelinks": 20,
+      "imdbId": "tt0087481",
+      "source": "wikidata",
+      "imdbVotes": 12993,
+      "igdbEngagement": 0,
+      "popularityScore": 61.13742862429349
+    },
+    {
+      "qid": "Q22000483",
+      "label": "The Nut Job 2: Nutty by Nature",
+      "sitelinks": 22,
+      "imdbId": "tt3486626",
+      "source": "wikidata",
+      "imdbVotes": 8193,
+      "igdbEngagement": 0,
+      "popularityScore": 61.134959596171235
+    },
+    {
+      "qid": "Q1210907",
+      "label": "Another Stakeout",
+      "sitelinks": 19,
+      "imdbId": "tt0106292",
+      "source": "wikidata",
+      "imdbVotes": 16321,
+      "igdbEngagement": 0,
+      "popularityScore": 61.12773373519913
+    },
+    {
+      "qid": "Q1366560",
+      "label": "Cover Girl",
+      "sitelinks": 23,
+      "imdbId": "tt0036723",
+      "source": "wikidata",
+      "imdbVotes": 6472,
+      "igdbEngagement": 0,
+      "popularityScore": 61.1110560701793
+    },
+    {
+      "qid": "Q1827484",
+      "label": "Read My Lips",
+      "sitelinks": 19,
+      "imdbId": "tt0274117",
+      "source": "wikidata",
+      "imdbVotes": 16219,
+      "igdbEngagement": 0,
+      "popularityScore": 61.100508498751374
+    },
+    {
+      "qid": "Q1214543",
+      "label": "The Lovers",
+      "sitelinks": 23,
+      "imdbId": "tt0052556",
+      "source": "wikidata",
+      "imdbVotes": 6449,
+      "igdbEngagement": 0,
+      "popularityScore": 61.095597146352674
+    },
+    {
+      "qid": "Q465192",
+      "label": "The Flock",
+      "sitelinks": 20,
+      "imdbId": "tt0473356",
+      "source": "wikidata",
+      "imdbVotes": 12864,
+      "igdbEngagement": 0,
+      "popularityScore": 61.094097905463656
+    },
+    {
+      "qid": "Q542466",
+      "label": "Zorro",
+      "sitelinks": 24,
+      "imdbId": "tt0072448",
+      "source": "wikidata",
+      "imdbVotes": 5119,
+      "igdbEngagement": 0,
+      "popularityScore": 61.092699609758306
+    },
+    {
+      "qid": "Q162458",
+      "label": "Beyond the Sea",
+      "sitelinks": 19,
+      "imdbId": "tt0363473",
+      "source": "wikidata",
+      "imdbVotes": 16115,
+      "igdbEngagement": 0,
+      "popularityScore": 61.0725725871634
+    },
+    {
+      "qid": "Q1519422",
+      "label": "Gold Diggers of 1933",
+      "sitelinks": 21,
+      "imdbId": "tt0024069",
+      "source": "wikidata",
+      "imdbVotes": 10137,
+      "igdbEngagement": 0,
+      "popularityScore": 61.05952286887383
+    },
+    {
+      "qid": "Q1444710",
+      "label": "The Ghost of Frankenstein",
+      "sitelinks": 22,
+      "imdbId": "tt0034786",
+      "source": "wikidata",
+      "imdbVotes": 8051,
+      "igdbEngagement": 0,
+      "popularityScore": 61.05903766216617
+    },
+    {
+      "qid": "Q594385",
+      "label": "Blonde Venus",
+      "sitelinks": 23,
+      "imdbId": "tt0022698",
+      "source": "wikidata",
+      "imdbVotes": 6388,
+      "igdbEngagement": 0,
+      "popularityScore": 61.054328881321396
+    },
+    {
+      "qid": "Q1428947",
+      "label": "Flipper",
+      "sitelinks": 20,
+      "imdbId": "tt0116322",
+      "source": "wikidata",
+      "imdbVotes": 12736,
+      "igdbEngagement": 0,
+      "popularityScore": 61.05067148810123
+    },
+    {
+      "qid": "Q1498484",
+      "label": "The Big Combo",
+      "sitelinks": 21,
+      "imdbId": "tt0047878",
+      "source": "wikidata",
+      "imdbVotes": 10106,
+      "igdbEngagement": 0,
+      "popularityScore": 61.046222657007824
+    },
+    {
+      "qid": "Q80849200",
+      "label": "AK-47",
+      "sitelinks": 23,
+      "imdbId": "tt11547520",
+      "source": "wikidata",
+      "imdbVotes": 6371,
+      "igdbEngagement": 0,
+      "popularityScore": 61.04275767129094
+    },
+    {
+      "qid": "Q1790253",
+      "label": "Steel",
+      "sitelinks": 19,
+      "imdbId": "tt0120207",
+      "source": "wikidata",
+      "imdbVotes": 15966,
+      "igdbEngagement": 0,
+      "popularityScore": 61.03223325290906
+    },
+    {
+      "qid": "Q3014145",
+      "label": "The Canyons",
+      "sitelinks": 20,
+      "imdbId": "tt2292959",
+      "source": "wikidata",
+      "imdbVotes": 12671,
+      "igdbEngagement": 0,
+      "popularityScore": 61.028451642454186
+    },
+    {
+      "qid": "Q1095356",
+      "label": "Suicide Room",
+      "sitelinks": 20,
+      "imdbId": "tt1808454",
+      "source": "wikidata",
+      "imdbVotes": 12666,
+      "igdbEngagement": 0,
+      "popularityScore": 61.02673770548927
+    },
+    {
+      "qid": "Q1031257",
+      "label": "Empire of the Wolves",
+      "sitelinks": 20,
+      "imdbId": "tt0402158",
+      "source": "wikidata",
+      "imdbVotes": 12643,
+      "igdbEngagement": 0,
+      "popularityScore": 61.01884487167542
+    },
+    {
+      "qid": "Q1195881",
+      "label": "The Morning After",
+      "sitelinks": 22,
+      "imdbId": "tt0091554",
+      "source": "wikidata",
+      "imdbVotes": 7975,
+      "igdbEngagement": 0,
+      "popularityScore": 61.017851453035995
+    },
+    {
+      "qid": "Q1105631",
+      "label": "Code Name: The Cleaner",
+      "sitelinks": 20,
+      "imdbId": "tt0462229",
+      "source": "wikidata",
+      "imdbVotes": 12611,
+      "igdbEngagement": 0,
+      "popularityScore": 61.007839620758666
+    },
+    {
+      "qid": "Q773816",
+      "label": "Léon Morin, Priest",
+      "sitelinks": 23,
+      "imdbId": "tt0055082",
+      "source": "wikidata",
+      "imdbVotes": 6317,
+      "igdbEngagement": 0,
+      "popularityScore": 61.005796215691305
+    },
+    {
+      "qid": "Q1634738",
+      "label": "Black and White in Color",
+      "sitelinks": 28,
+      "imdbId": "tt0074972",
+      "source": "wikidata",
+      "imdbVotes": 1994,
+      "igdbEngagement": 0,
+      "popularityScore": 60.99942900022767
+    },
+    {
+      "qid": "Q105807115",
+      "label": "After Ever Happy",
+      "sitelinks": 19,
+      "imdbId": "tt13070038",
+      "source": "wikidata",
+      "imdbVotes": 15813,
+      "igdbEngagement": 0,
+      "popularityScore": 60.990417344614826
+    },
+    {
+      "qid": "Q1293934",
+      "label": "Fright Night Part 2",
+      "sitelinks": 19,
+      "imdbId": "tt0097390",
+      "source": "wikidata",
+      "imdbVotes": 15787,
+      "igdbEngagement": 0,
+      "popularityScore": 60.98327117723478
+    },
+    {
+      "qid": "Q26391",
+      "label": "Knight Moves",
+      "sitelinks": 21,
+      "imdbId": "tt0104627",
+      "source": "wikidata",
+      "imdbVotes": 9957,
+      "igdbEngagement": 0,
+      "popularityScore": 60.98172121939441
+    },
+    {
+      "qid": "Q1218841",
+      "label": "The Last Wave",
+      "sitelinks": 20,
+      "imdbId": "tt0076299",
+      "source": "wikidata",
+      "imdbVotes": 12531,
+      "igdbEngagement": 0,
+      "popularityScore": 60.98020386209668
+    },
+    {
+      "qid": "Q16251431",
+      "label": "Mardaani",
+      "sitelinks": 19,
+      "imdbId": "tt3495000",
+      "source": "wikidata",
+      "imdbVotes": 15762,
+      "igdbEngagement": 0,
+      "popularityScore": 60.976388755555696
+    },
+    {
+      "qid": "Q764734",
+      "label": "Prisoner of the Mountains",
+      "sitelinks": 24,
+      "imdbId": "tt0116754",
+      "source": "wikidata",
+      "imdbVotes": 4978,
+      "igdbEngagement": 0,
+      "popularityScore": 60.971421262754596
+    },
+    {
+      "qid": "Q2297889",
+      "label": "The Hour-Glass Sanatorium",
+      "sitelinks": 23,
+      "imdbId": "tt0070628",
+      "source": "wikidata",
+      "imdbVotes": 6267,
+      "igdbEngagement": 0,
+      "popularityScore": 60.971289877965525
+    },
+    {
+      "qid": "Q1035443",
+      "label": "Caravaggio",
+      "sitelinks": 22,
+      "imdbId": "tt0090798",
+      "source": "wikidata",
+      "imdbVotes": 7883,
+      "igdbEngagement": 0,
+      "popularityScore": 60.96746615607406
+    },
+    {
+      "qid": "Q2296139",
+      "label": "First Name: Carmen",
+      "sitelinks": 24,
+      "imdbId": "tt0086153",
+      "source": "wikidata",
+      "imdbVotes": 4967,
+      "igdbEngagement": 0,
+      "popularityScore": 60.96181587168524
+    },
+    {
+      "qid": "Q2426434",
+      "label": "The Wind",
+      "sitelinks": 22,
+      "imdbId": "tt0019585",
+      "source": "wikidata",
+      "imdbVotes": 7872,
+      "igdbEngagement": 0,
+      "popularityScore": 60.96140251442019
+    },
+    {
+      "qid": "Q1194870",
+      "label": "The Colossus of Rhodes",
+      "sitelinks": 24,
+      "imdbId": "tt0054756",
+      "source": "wikidata",
+      "imdbVotes": 4962,
+      "igdbEngagement": 0,
+      "popularityScore": 60.95744275197323
+    },
+    {
+      "qid": "Q1199445",
+      "label": "Last Train from Gun Hill",
+      "sitelinks": 21,
+      "imdbId": "tt0052993",
+      "source": "wikidata",
+      "imdbVotes": 9889,
+      "igdbEngagement": 0,
+      "popularityScore": 60.95196291597179
+    },
+    {
+      "qid": "Q1190863",
+      "label": "Not One Less",
+      "sitelinks": 21,
+      "imdbId": "tt0209189",
+      "source": "wikidata",
+      "imdbVotes": 9869,
+      "igdbEngagement": 0,
+      "popularityScore": 60.94317152669637
+    },
+    {
+      "qid": "Q1962870",
+      "label": "Il Posto",
+      "sitelinks": 22,
+      "imdbId": "tt0055320",
+      "source": "wikidata",
+      "imdbVotes": 7827,
+      "igdbEngagement": 0,
+      "popularityScore": 60.936508169859636
+    },
+    {
+      "qid": "Q1304344",
+      "label": "Letter Never Sent",
+      "sitelinks": 24,
+      "imdbId": "tt0053106",
+      "source": "wikidata",
+      "imdbVotes": 4937,
+      "igdbEngagement": 0,
+      "popularityScore": 60.93551085595913
+    },
+    {
+      "qid": "Q1141286",
+      "label": "The Crossing Guard",
+      "sitelinks": 19,
+      "imdbId": "tt0112744",
+      "source": "wikidata",
+      "imdbVotes": 15608,
+      "igdbEngagement": 0,
+      "popularityScore": 60.933750806156986
+    },
+    {
+      "qid": "Q30726990",
+      "label": "Taxi 5",
+      "sitelinks": 20,
+      "imdbId": "tt7238392",
+      "source": "wikidata",
+      "imdbVotes": 12385,
+      "igdbEngagement": 0,
+      "popularityScore": 60.92931075673553
+    },
+    {
+      "qid": "Q1862094",
+      "label": "Island of Lost Souls",
+      "sitelinks": 20,
+      "imdbId": "tt0024188",
+      "source": "wikidata",
+      "imdbVotes": 12379,
+      "igdbEngagement": 0,
+      "popularityScore": 60.92720644684099
+    },
+    {
+      "qid": "Q1619523",
+      "label": "Alice Adams",
+      "sitelinks": 24,
+      "imdbId": "tt0026056",
+      "source": "wikidata",
+      "imdbVotes": 4925,
+      "igdbEngagement": 0,
+      "popularityScore": 60.924944075030844
+    },
+    {
+      "qid": "Q890656",
+      "label": "Pokémon Heroes",
+      "sitelinks": 22,
+      "imdbId": "tt0347791",
+      "source": "wikidata",
+      "imdbVotes": 7799,
+      "igdbEngagement": 0,
+      "popularityScore": 60.9209460269048
+    },
+    {
+      "qid": "Q464440",
+      "label": "The Element of Crime",
+      "sitelinks": 20,
+      "imdbId": "tt0087280",
+      "source": "wikidata",
+      "imdbVotes": 12346,
+      "igdbEngagement": 0,
+      "popularityScore": 60.91561448144972
+    },
+    {
+      "qid": "Q107273994",
+      "label": "The Battle at Lake Changjin",
+      "sitelinks": 24,
+      "imdbId": "tt13462900",
+      "source": "wikidata",
+      "imdbVotes": 4909,
+      "igdbEngagement": 0,
+      "popularityScore": 60.91081492122969
+    },
+    {
+      "qid": "Q232108",
+      "label": "The Fearless Hyena",
+      "sitelinks": 23,
+      "imdbId": "tt0079315",
+      "source": "wikidata",
+      "imdbVotes": 6179,
+      "igdbEngagement": 0,
+      "popularityScore": 60.90988475088816
+    },
+    {
+      "qid": "Q1228404",
+      "label": "Calamity Jane",
+      "sitelinks": 20,
+      "imdbId": "tt0045591",
+      "source": "wikidata",
+      "imdbVotes": 12316,
+      "igdbEngagement": 0,
+      "popularityScore": 60.90504941424044
+    },
+    {
+      "qid": "Q1569902",
+      "label": "Snow White: A Tale of Terror",
+      "sitelinks": 20,
+      "imdbId": "tt0119227",
+      "source": "wikidata",
+      "imdbVotes": 12309,
+      "igdbEngagement": 0,
+      "popularityScore": 60.90258052931317
+    },
+    {
+      "qid": "Q1246289",
+      "label": "The Cheat",
+      "sitelinks": 26,
+      "imdbId": "tt0005078",
+      "source": "wikidata",
+      "imdbVotes": 3088,
+      "igdbEngagement": 0,
+      "popularityScore": 60.898179083014504
+    },
+    {
+      "qid": "Q1262076",
+      "label": "Ministry of Fear",
+      "sitelinks": 21,
+      "imdbId": "tt0037075",
+      "source": "wikidata",
+      "imdbVotes": 9750,
+      "igdbEngagement": 0,
+      "popularityScore": 60.8904915643822
+    },
+    {
+      "qid": "Q232175",
+      "label": "Go for It",
+      "sitelinks": 20,
+      "imdbId": "tt0085601",
+      "source": "wikidata",
+      "imdbVotes": 12269,
+      "igdbEngagement": 0,
+      "popularityScore": 60.888445627270045
+    },
+    {
+      "qid": "Q885284",
+      "label": "Innocent Blood",
+      "sitelinks": 20,
+      "imdbId": "tt0104511",
+      "source": "wikidata",
+      "imdbVotes": 12263,
+      "igdbEngagement": 0,
+      "popularityScore": 60.88632141846319
+    },
+    {
+      "qid": "Q217023",
+      "label": "Bullet in a Bible",
+      "sitelinks": 28,
+      "imdbId": "tt0485773",
+      "source": "wikidata",
+      "imdbVotes": 1941,
+      "igdbEngagement": 0,
+      "popularityScore": 60.88249225571986
+    },
+    {
+      "qid": "Q1779486",
+      "label": "A Summer's Tale",
+      "sitelinks": 20,
+      "imdbId": "tt0115940",
+      "source": "wikidata",
+      "imdbVotes": 12228,
+      "igdbEngagement": 0,
+      "popularityScore": 60.87390944997188
+    },
+    {
+      "qid": "Q971412",
+      "label": "This Sporting Life",
+      "sitelinks": 22,
+      "imdbId": "tt0057578",
+      "source": "wikidata",
+      "imdbVotes": 7714,
+      "igdbEngagement": 0,
+      "popularityScore": 60.87335930399167
+    },
+    {
+      "qid": "Q1121256",
+      "label": "Young Adam",
+      "sitelinks": 19,
+      "imdbId": "tt0289635",
+      "source": "wikidata",
+      "imdbVotes": 15391,
+      "igdbEngagement": 0,
+      "popularityScore": 60.872950546937375
+    },
+    {
+      "qid": "Q1197936",
+      "label": "The Working Class Goes to Heaven",
+      "sitelinks": 24,
+      "imdbId": "tt0066919",
+      "source": "wikidata",
+      "imdbVotes": 4865,
+      "igdbEngagement": 0,
+      "popularityScore": 60.871721045948
+    },
+    {
+      "qid": "Q2060452",
+      "label": "What Have I Done to Deserve This?",
+      "sitelinks": 20,
+      "imdbId": "tt0088461",
+      "source": "wikidata",
+      "imdbVotes": 12191,
+      "igdbEngagement": 0,
+      "popularityScore": 60.86074953995525
+    },
+    {
+      "qid": "Q566834",
+      "label": "The Grey Zone",
+      "sitelinks": 20,
+      "imdbId": "tt0252480",
+      "source": "wikidata",
+      "imdbVotes": 12184,
+      "igdbEngagement": 0,
+      "popularityScore": 60.85825533520743
+    },
+    {
+      "qid": "Q582281",
+      "label": "Raintree County",
+      "sitelinks": 24,
+      "imdbId": "tt0050882",
+      "source": "wikidata",
+      "imdbVotes": 4844,
+      "igdbEngagement": 0,
+      "popularityScore": 60.85293781386784
+    },
+    {
+      "qid": "Q18709329",
+      "label": "The Clan",
+      "sitelinks": 19,
+      "imdbId": "tt4411504",
+      "source": "wikidata",
+      "imdbVotes": 15311,
+      "igdbEngagement": 0,
+      "popularityScore": 60.85031920432769
+    },
+    {
+      "qid": "Q409064",
+      "label": "The Concorde ... Airport '79",
+      "sitelinks": 22,
+      "imdbId": "tt0078740",
+      "source": "wikidata",
+      "imdbVotes": 7671,
+      "igdbEngagement": 0,
+      "popularityScore": 60.84908594162607
+    },
+    {
+      "qid": "Q759459",
+      "label": "Ride Lonesome",
+      "sitelinks": 22,
+      "imdbId": "tt0053220",
+      "source": "wikidata",
+      "imdbVotes": 7670,
+      "igdbEngagement": 0,
+      "popularityScore": 60.84851982745998
+    },
+    {
+      "qid": "Q568239",
+      "label": "The Bitter Tea of General Yen",
+      "sitelinks": 24,
+      "imdbId": "tt0023814",
+      "source": "wikidata",
+      "imdbVotes": 4836,
+      "igdbEngagement": 0,
+      "popularityScore": 60.84576087388456
+    },
+    {
+      "qid": "Q531332",
+      "label": "The Big House",
+      "sitelinks": 26,
+      "imdbId": "tt0020686",
+      "source": "wikidata",
+      "imdbVotes": 3050,
+      "igdbEngagement": 0,
+      "popularityScore": 60.84442207642407
+    },
+    {
+      "qid": "Q1984935",
+      "label": "A Corner in Wheat",
+      "sitelinks": 26,
+      "imdbId": "tt0000832",
+      "source": "wikidata",
+      "imdbVotes": 3049,
+      "igdbEngagement": 0,
+      "popularityScore": 60.84299839346786
+    },
+    {
+      "qid": "Q1753074",
+      "label": "Offside",
+      "sitelinks": 21,
+      "imdbId": "tt0499537",
+      "source": "wikidata",
+      "imdbVotes": 9641,
+      "igdbEngagement": 0,
+      "popularityScore": 60.841671271469885
+    },
+    {
+      "qid": "Q886105",
+      "label": "Blue's Clues",
+      "sitelinks": 22,
+      "imdbId": "tt0163929",
+      "source": "wikidata",
+      "imdbVotes": 7629,
+      "igdbEngagement": 0,
+      "popularityScore": 60.825245379548804
+    },
+    {
+      "qid": "Q1529877",
+      "label": "Meteor",
+      "sitelinks": 21,
+      "imdbId": "tt0079550",
+      "source": "wikidata",
+      "imdbVotes": 9563,
+      "igdbEngagement": 0,
+      "popularityScore": 60.806395674437375
+    },
+    {
+      "qid": "Q232075",
+      "label": "La Traversée de Paris",
+      "sitelinks": 24,
+      "imdbId": "tt0049877",
+      "source": "wikidata",
+      "imdbVotes": 4761,
+      "igdbEngagement": 0,
+      "popularityScore": 60.77789391068861
+    },
+    {
+      "qid": "Q749578",
+      "label": "The Clan of the Cave Bear",
+      "sitelinks": 22,
+      "imdbId": "tt0090848",
+      "source": "wikidata",
+      "imdbVotes": 7526,
+      "igdbEngagement": 0,
+      "popularityScore": 60.76621916034273
+    },
+    {
+      "qid": "Q117662296",
+      "label": "The Old Oak",
+      "sitelinks": 19,
+      "imdbId": "tt19883634",
+      "source": "wikidata",
+      "imdbVotes": 14994,
+      "igdbEngagement": 0,
+      "popularityScore": 60.75946470095546
+    },
+    {
+      "qid": "Q531109",
+      "label": "The Round-Up",
+      "sitelinks": 25,
+      "imdbId": "tt0059776",
+      "source": "wikidata",
+      "imdbVotes": 3765,
+      "igdbEngagement": 0,
+      "popularityScore": 60.75880315680646
+    },
+    {
+      "qid": "Q20649274",
+      "label": "Baaghi: A Rebel For Love",
+      "sitelinks": 20,
+      "imdbId": "tt4864932",
+      "source": "wikidata",
+      "imdbVotes": 11897,
+      "igdbEngagement": 0,
+      "popularityScore": 60.75473964588946
+    },
+    {
+      "qid": "Q794707",
+      "label": "The Great Lie",
+      "sitelinks": 24,
+      "imdbId": "tt0033677",
+      "source": "wikidata",
+      "imdbVotes": 4725,
+      "igdbEngagement": 0,
+      "popularityScore": 60.7449371729635
+    },
+    {
+      "qid": "Q1854297",
+      "label": "Monkeyshines",
+      "sitelinks": 28,
+      "imdbId": "tt0361921",
+      "source": "wikidata",
+      "imdbVotes": 1878,
+      "igdbEngagement": 0,
+      "popularityScore": 60.739267801005255
+    },
+    {
+      "qid": "Q1731060",
+      "label": "Bell, Book and Candle",
+      "sitelinks": 19,
+      "imdbId": "tt0051406",
+      "source": "wikidata",
+      "imdbVotes": 14916,
+      "igdbEngagement": 0,
+      "popularityScore": 60.73681489728459
+    },
+    {
+      "qid": "Q185053",
+      "label": "The Paper Chase",
+      "sitelinks": 21,
+      "imdbId": "tt0070509",
+      "source": "wikidata",
+      "imdbVotes": 9410,
+      "igdbEngagement": 0,
+      "popularityScore": 60.73635773417407
+    },
+    {
+      "qid": "Q1121918",
+      "label": "Duplicate",
+      "sitelinks": 21,
+      "imdbId": "tt0164550",
+      "source": "wikidata",
+      "imdbVotes": 9407,
+      "igdbEngagement": 0,
+      "popularityScore": 60.73497308732063
+    },
+    {
+      "qid": "Q113445202",
+      "label": "All the Beauty and the Bloodshed",
+      "sitelinks": 21,
+      "imdbId": "tt21374850",
+      "source": "wikidata",
+      "imdbVotes": 9397,
+      "igdbEngagement": 0,
+      "popularityScore": 60.73035440686933
+    },
+    {
+      "qid": "Q109559532",
+      "label": "Rustin",
+      "sitelinks": 19,
+      "imdbId": "tt14160834",
+      "source": "wikidata",
+      "imdbVotes": 14886,
+      "igdbEngagement": 0,
+      "popularityScore": 60.72807188369087
+    },
+    {
+      "qid": "Q1676240",
+      "label": "The Spirit of St. Louis",
+      "sitelinks": 21,
+      "imdbId": "tt0051003",
+      "source": "wikidata",
+      "imdbVotes": 9389,
+      "igdbEngagement": 0,
+      "popularityScore": 60.72665592266111
+    },
+    {
+      "qid": "Q1602612",
+      "label": "All This, and Heaven Too",
+      "sitelinks": 23,
+      "imdbId": "tt0032194",
+      "source": "wikidata",
+      "imdbVotes": 5923,
+      "igdbEngagement": 0,
+      "popularityScore": 60.72615049849171
+    },
+    {
+      "qid": "Q606928",
+      "label": "Wilson",
+      "sitelinks": 28,
+      "imdbId": "tt0037465",
+      "source": "wikidata",
+      "imdbVotes": 1871,
+      "igdbEngagement": 0,
+      "popularityScore": 60.723058444020864
+    },
+    {
+      "qid": "Q861445",
+      "label": "Cannibal Ferox",
+      "sitelinks": 20,
+      "imdbId": "tt0082700",
+      "source": "wikidata",
+      "imdbVotes": 11802,
+      "igdbEngagement": 0,
+      "popularityScore": 60.71992407124176
+    },
+    {
+      "qid": "Q848967",
+      "label": "For Love and Gold",
+      "sitelinks": 23,
+      "imdbId": "tt0060125",
+      "source": "wikidata",
+      "imdbVotes": 5909,
+      "igdbEngagement": 0,
+      "popularityScore": 60.71587480881256
+    },
+    {
+      "qid": "Q751341",
+      "label": "The Prize",
+      "sitelinks": 23,
+      "imdbId": "tt0057426",
+      "source": "wikidata",
+      "imdbVotes": 5907,
+      "igdbEngagement": 0,
+      "popularityScore": 60.71440486639912
+    },
+    {
+      "qid": "Q2162060",
+      "label": "The Man in the White Suit",
+      "sitelinks": 20,
+      "imdbId": "tt0044876",
+      "source": "wikidata",
+      "imdbVotes": 11784,
+      "igdbEngagement": 0,
+      "popularityScore": 60.71329586860343
+    },
+    {
+      "qid": "Q1169369",
+      "label": "Dark Habits",
+      "sitelinks": 21,
+      "imdbId": "tt0085496",
+      "source": "wikidata",
+      "imdbVotes": 9358,
+      "igdbEngagement": 0,
+      "popularityScore": 60.71229447276241
+    },
+    {
+      "qid": "Q1581723",
+      "label": "The Love Parade",
+      "sitelinks": 26,
+      "imdbId": "tt0020112",
+      "source": "wikidata",
+      "imdbVotes": 2957,
+      "igdbEngagement": 0,
+      "popularityScore": 60.709981696608736
+    },
+    {
+      "qid": "Q1253821",
+      "label": "Gertrud",
+      "sitelinks": 22,
+      "imdbId": "tt0058138",
+      "source": "wikidata",
+      "imdbVotes": 7410,
+      "igdbEngagement": 0,
+      "popularityScore": 60.69876813266767
+    },
+    {
+      "qid": "Q1372295",
+      "label": "The Private Lives of Pippa Lee",
+      "sitelinks": 19,
+      "imdbId": "tt1134629",
+      "source": "wikidata",
+      "imdbVotes": 14782,
+      "igdbEngagement": 0,
+      "popularityScore": 60.69762576902915
+    },
+    {
+      "qid": "Q708816",
+      "label": "Animals United",
+      "sitelinks": 22,
+      "imdbId": "tt1620449",
+      "source": "wikidata",
+      "imdbVotes": 7393,
+      "igdbEngagement": 0,
+      "popularityScore": 60.68879446237088
+    },
+    {
+      "qid": "Q16248904",
+      "label": "Heropanti",
+      "sitelinks": 20,
+      "imdbId": "tt3142232",
+      "source": "wikidata",
+      "imdbVotes": 11715,
+      "igdbEngagement": 0,
+      "popularityScore": 60.68779363009561
+    }
+  ]
+}

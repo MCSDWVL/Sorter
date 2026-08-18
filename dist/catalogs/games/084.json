@@ -1,0 +1,909 @@
+{
+  "catalogId": "games",
+  "index": 83,
+  "items": [
+    {
+      "qid": "Q3283029",
+      "label": "Route-16",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3942602",
+      "label": "Rulers of Nations",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q5968518",
+      "label": "Rune Factory 3",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q63515614",
+      "label": "Rune Factory 5",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7379806",
+      "label": "Rune Factory: Tides of Destiny",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q98940045",
+      "label": "S&box",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2022824",
+      "label": "Saboteur",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2760389",
+      "label": "Saint Seiya Senki",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q4353964",
+      "label": "Salt Lake 2002",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3282007",
+      "label": "Samurai Shodown 64: Warriors Rage",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3284742",
+      "label": "Samurai Shodown: Warriors Rage",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3129001",
+      "label": "Samurai Warriors: Chronicles",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q26252729",
+      "label": "Samurai Warriors: Spirit of Sanada",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7413115",
+      "label": "Samurai Western",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q6133005",
+      "label": "Saturn Bomberman Fight!",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7427764",
+      "label": "Savage Reign",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2092850",
+      "label": "Screamer",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q686451",
+      "label": "Secret Files 2: Puritas Cordis",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3477710",
+      "label": "Sega Ages",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3013926",
+      "label": "Sega Classics Arcade Collection",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3477717",
+      "label": "Sega GT",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7446169",
+      "label": "Sega Touring Car Championship",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7446621",
+      "label": "Seicross",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q9286839",
+      "label": "Sengoku Basara 2",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7450594",
+      "label": "Sengoku Blade",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1507141",
+      "label": "Sensible World of Soccer",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q84800841",
+      "label": "Shachibato! President, It's Time for Battle!",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2738507",
+      "label": "Shadow Hearts: From the New World",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q131434413",
+      "label": "Shadow Labyrinth",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1155168",
+      "label": "Shadow of the Comet",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1241900",
+      "label": "Shaiya",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q15036769",
+      "label": "Shanghai",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7490710",
+      "label": "Shattered Steel",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3481709",
+      "label": "Sheep",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1054993",
+      "label": "Sheriff",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3271697",
+      "label": "Shin Bokura no Taiyō: Gyakushū no Sabata",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q5235054",
+      "label": "Shining Blade",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2074706",
+      "label": "Shining Force Gaiden",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2069294",
+      "label": "Shining Hearts",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q17164075",
+      "label": "Shining Resonance",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3284986",
+      "label": "Shinsetsu Samurai Spirits Bushidō Retsuden",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7499945",
+      "label": "Shockwave Assault",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q21402045",
+      "label": "Shōjotachi wa Kōya o Mezasu",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3959695",
+      "label": "Shoot Many Robots",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q6128329",
+      "label": "Silent Hill HD Collection",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q743803",
+      "label": "Silver",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2423673",
+      "label": "Skate It",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1979272",
+      "label": "Skool Daze",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q28998937",
+      "label": "Snake Pass",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q55633379",
+      "label": "Sniper Fury",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q114794840",
+      "label": "Snufkin: Melody of Moominvalley",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3963213",
+      "label": "Soccer Brawl",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3102119",
+      "label": "SOCOM U.S. Navy SEALs",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3489681",
+      "label": "Solvalou",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q17021006",
+      "label": "Sonic After the Sequel",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q15715824",
+      "label": "Sonic Boom",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2701486",
+      "label": "Sonic Crackers",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q40450272",
+      "label": "Sonic Dash 2: Sonic Boom",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q125848740",
+      "label": "Sonic Rumble",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1131234",
+      "label": "Soul Link",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q868948",
+      "label": "Soul Nomad & the World Eaters",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q844355",
+      "label": "Space Empires IV",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3492572",
+      "label": "Space Empires V",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2040456",
+      "label": "Space Manbow",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q764619",
+      "label": "Space Squash",
+      "sitelinks": 7,
+      "imdbId": "tt3068680",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3492613",
+      "label": "Space Wars",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7575478",
+      "label": "Speed Freaks",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q21190218",
+      "label": "SpeedRunners",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7575831",
+      "label": "SpellCaster",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2881529",
+      "label": "Spider-Man and Captain America in Doctor Doom's Revenge",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3493434",
+      "label": "Spider-Man: The Video Game",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q4817991",
+      "label": "Spinmaster",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7578988",
+      "label": "SpongeBob SquigglePants",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q641801",
+      "label": "Spore Galactic Adventures",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q31685",
+      "label": "Spore Hero Arena",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1444293",
+      "label": "Spore Origins",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q663968",
+      "label": "Sports Champions 2",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q55641882",
+      "label": "Standoff",
+      "sitelinks": 7,
+      "imdbId": "tt42609248",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q54842",
+      "label": "Star Wars Episode I: Obi-Wan's Adventures",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q55248",
+      "label": "Star Wars Trilogy Arcade",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2361500",
+      "label": "Star Wars: Lethal Alliance",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q54334",
+      "label": "Star Wars: Return of the Jedi",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q54845",
+      "label": "Star Wars: The New Droid Army",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3496925",
+      "label": "StarCraft: Insurrection",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3195863",
+      "label": "Starglider",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q361644",
+      "label": "Starlancer",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q20045125",
+      "label": "Stella Glow",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q108140592",
+      "label": "Storyteller",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1049210",
+      "label": "Street Legal Racing: Redline",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2001294",
+      "label": "Style Savvy",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q7642143",
+      "label": "Super Adventure Rockman",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3098487",
+      "label": "Super Battletank",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q581502",
+      "label": "Super Fantasy Zone",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3504236",
+      "label": "Super Monkey Ball: Step & Roll",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3977606",
+      "label": "Super Robot Taisen OG Saga: Endless Frontier",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1988494",
+      "label": "Super Robot Wars 64",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q1056097",
+      "label": "Super Robot Wars Destiny",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3977615",
+      "label": "Super Robot Wars R",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q2022792",
+      "label": "Super Spy Hunter",
+      "sitelinks": 7,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    },
+    {
+      "qid": "Q3285722",
+      "label": "Super Strike Eagle",
+      "sitelinks": 7,
+      "imdbId": "tt7468246",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 7
+    }
+  ]
+}

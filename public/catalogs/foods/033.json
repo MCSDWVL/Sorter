@@ -1,0 +1,906 @@
+{
+  "catalogId": "foods",
+  "index": 32,
+  "items": [
+    {
+      "qid": "Q140651286",
+      "label": "Pallotte cace e ove PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651288",
+      "label": "Pasta fatta in casa al ragù di papera PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q123909957",
+      "label": "pea soup and pancakes on Thursdays",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q107357114",
+      "label": "Peeled Beans Porridge",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651312",
+      "label": "Peperoni ripieni alla lucana PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q95485593",
+      "label": "Perrier sparkling natural mineral water  33.8 floz",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q114779420",
+      "label": "Pillsbury holiday sugar cookies",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651290",
+      "label": "Pizz'e e ffo'je PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q107852688",
+      "label": "plantain chips",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q136487236",
+      "label": "Plantain Fufu",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q135334986",
+      "label": "Plasas",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651304",
+      "label": "Ponce PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140656365",
+      "label": "Poncio al caffè PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140656366",
+      "label": "Poncio PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558559",
+      "label": "PopCorners Cinnamon Crunch",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558492",
+      "label": "PopCorners Kettle Corn",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558503",
+      "label": "PopCorners Sea Salt",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558526",
+      "label": "PopCorners Sour Cream & Onion",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558510",
+      "label": "PopCorners Spicy Queso",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558517",
+      "label": "PopCorners Sweet Chili",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558501",
+      "label": "PopCorners White Cheddar",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q141106468",
+      "label": "Powerade Mountain Berry Blast",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q108808119",
+      "label": "Pringsewu fish pindang",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q110908305",
+      "label": "protein shake",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140658745",
+      "label": "Prugna PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652159",
+      "label": "Prunus di Valle Rea PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125582095",
+      "label": "psari plaki",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q124222064",
+      "label": "Puddis",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q114421387",
+      "label": "Pudina Khara Pongal",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q123514659",
+      "label": "Putu ambung",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q105561074",
+      "label": "Putu Ayu",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q126718176",
+      "label": "Pyŏngyang onban",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q131181337",
+      "label": "Ramanonaka",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q123510977",
+      "label": "Randang porridge",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651236",
+      "label": "Ratafia PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140645900",
+      "label": "Ratafià PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140655107",
+      "label": "Rattafia ciociara PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q129319693",
+      "label": "rendang campur",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q130961449",
+      "label": "Rivers state native soup",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q121437693",
+      "label": "Rock-Hard Food",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140656499",
+      "label": "Rosolio PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140657445",
+      "label": "Rum di Avola PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q113826628",
+      "label": "saag aloo",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q113664446",
+      "label": "saag gosht",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651292",
+      "label": "Sagne a pezze e cicerchie PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q123511654",
+      "label": "sago bread",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140655110",
+      "label": "Sambuca romana PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140655112",
+      "label": "Sambuca vecchia della Ciociaria PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140655113",
+      "label": "Sambuca viterbese PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q107405732",
+      "label": "Sanga (Meal)",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140658748",
+      "label": "Sangue morlacco PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652728",
+      "label": "Sapa di fico d'india PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140656233",
+      "label": "Sapa PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q123510962",
+      "label": "Sari pengantin",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140654520",
+      "label": "Sassolino PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q121338657",
+      "label": "sassy water",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q130609436",
+      "label": "Saudi coffee",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q136030944",
+      "label": "savalavada",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652295",
+      "label": "Schwarzbeerschnaps PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652498",
+      "label": "Sciroppo di arancia bionda PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651977",
+      "label": "Sciroppo di lampone PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140654890",
+      "label": "Sciroppo di olivello spinoso PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140654892",
+      "label": "Sciroppo di piccoli frutti PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652460",
+      "label": "Sciroppo di sambuco o Conserva de sambùc PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140654894",
+      "label": "Sciroppo di sambuco PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140654896",
+      "label": "Sciroppo di tarassaco PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q134298782",
+      "label": "semolina halva",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q107470450",
+      "label": "Sesame soup",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140645925",
+      "label": "Seupa à la vapelenentze PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q138725349",
+      "label": "Seven Roots",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652505",
+      "label": "Sidro di Mela Annurca PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652507",
+      "label": "Sidro di Mela Limoncella PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140652510",
+      "label": "Sidro di Pera del Matese PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140705798",
+      "label": "Slush (Newfoundland drink)",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q119580769",
+      "label": "smothered pork chops",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q139569390",
+      "label": "snounieh",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140654692",
+      "label": "Sorbolo PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q135412763",
+      "label": "Soup Kandia",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q132152940",
+      "label": "Sour Cream & Funyuns",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q128257664",
+      "label": "spaghetti",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q129098238",
+      "label": "split pea soup",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q134603770",
+      "label": "Sprite + Tea",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140658751",
+      "label": "Spritz PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q129314449",
+      "label": "steamed cassava",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140656889",
+      "label": "Stomatica foletto PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q129652215",
+      "label": "stuffed crab",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140654898",
+      "label": "Succo di mela PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558081",
+      "label": "SunChips Black Bean Southwestern Queso",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558101",
+      "label": "SunChips Black Bean Spicy Jalapeño",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125558061",
+      "label": "SunChips Chili Lime",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125557928",
+      "label": "SunChips French Onion",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125557999",
+      "label": "SunChips Garden Salsa",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125557972",
+      "label": "SunChips Harvest Cheddar",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125557818",
+      "label": "SunChips Original",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q123511003",
+      "label": "Sunduk lawang",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q129319923",
+      "label": "sup belut",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q125556830",
+      "label": "Sweetos",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q140651294",
+      "label": "Taijarille fasciule e coteche PAT",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q137532583",
+      "label": "Taiwanese mini croissant brand",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    },
+    {
+      "qid": "Q139846003",
+      "label": "Taiwanese Steak",
+      "sitelinks": 0,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 0
+    }
+  ]
+}

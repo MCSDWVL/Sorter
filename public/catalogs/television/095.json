@@ -1,0 +1,918 @@
+{
+  "catalogId": "television",
+  "index": 94,
+  "items": [
+    {
+      "qid": "Q16963565",
+      "label": "Exo's Showtime",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q704010",
+      "label": "Groizer X",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q1343008",
+      "label": "Hakushaku to Yōsei",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q491354",
+      "label": "High Kick Through the Roof",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q492734",
+      "label": "High Kick: Revenge of the Short Legged",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q962969",
+      "label": "Kimi to Boku",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q1314517",
+      "label": "Koi Koi Seven",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q19514204",
+      "label": "Let's Eat 2",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q85884324",
+      "label": "Lie After Lie",
+      "sitelinks": 10,
+      "imdbId": "tt12867708",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q2453186",
+      "label": "Little Lulu",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q120599816",
+      "label": "Lu & the Bally Bunch",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q84706088",
+      "label": "Mars Red",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q1111959",
+      "label": "Oraa Guzura Dado",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q2663963",
+      "label": "Otogi Manga Calendar",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q28914820",
+      "label": "Please Take My Brother Away!",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q48967002",
+      "label": "Pokémon the Series: Black & White",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q556918",
+      "label": "Pokémon the Series: Diamond and Pearl",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q1068455",
+      "label": "Satyamev Jayate",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q493804",
+      "label": "SBS Gayo Daejeon",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q83914246",
+      "label": "Skate-Leading Stars",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q717730",
+      "label": "Sōten Kōro",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q43538060",
+      "label": "SOTUS S: The Series",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q10496006",
+      "label": "The Fjällbacka Murders",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q100234981",
+      "label": "The Haunting",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q934710",
+      "label": "There's No Place Like Home",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q1900754",
+      "label": "Top Model",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q2032573",
+      "label": "Topo Gigio",
+      "sitelinks": 10,
+      "imdbId": "nm1919324",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q487695",
+      "label": "Un-Go",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q66103835",
+      "label": "Vis a vis: El oasis",
+      "sitelinks": 10,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q2482065",
+      "label": "Yūkan Club",
+      "sitelinks": 10,
+      "imdbId": "tt2011842",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 10
+    },
+    {
+      "qid": "Q1186775",
+      "label": "30-sai no Hoken Taiiku",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q132592986",
+      "label": "Avatar: Seven Havens",
+      "sitelinks": 9,
+      "imdbId": "tt35854736",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q623691",
+      "label": "Bad Love",
+      "sitelinks": 9,
+      "imdbId": "tt0336485",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q520585",
+      "label": "Candy Boy",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q406497",
+      "label": "Dick Clark's New Year's Rockin' Eve",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q57415397",
+      "label": "Elseworlds",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q706638",
+      "label": "Future GPX Cyber Formula",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q491376",
+      "label": "Get Karl! Oh Soo-jung",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q717222",
+      "label": "Golden Warrior Gold Lightan",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q2270027",
+      "label": "Good Morning, Mickey!",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q11256093",
+      "label": "HaruChika",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q3249691",
+      "label": "Heimat – Eine deutsche Chronik",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q1438768",
+      "label": "Hen Semi",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q113110749",
+      "label": "Highspeed Etoile",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q97233788",
+      "label": "Homemade Love Story",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q28055772",
+      "label": "Idolish7",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q6090729",
+      "label": "It's Showtime",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q711291",
+      "label": "Kasou Taishou",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q6692417",
+      "label": "Lovers",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q11341919",
+      "label": "Microid S",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q485790",
+      "label": "My 19 Year Old Sister-in-Law",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q36346488",
+      "label": "My Dear Loser",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q7046197",
+      "label": "Nobunaga Concerto",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q115100579",
+      "label": "Payback: Money and Power",
+      "sitelinks": 9,
+      "imdbId": "tt25403636",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q108383955",
+      "label": "Pokémon Evolutions",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q67955198",
+      "label": "Pokémon Journeys: The Series",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q3008253",
+      "label": "Pokémon the Series: Ruby and Sapphire",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q12971613",
+      "label": "Pokémon the Series: Sun & Moon",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q15588417",
+      "label": "Project 575",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q61360856",
+      "label": "Save Me 2",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q2722789",
+      "label": "Snagglepuss",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q13666472",
+      "label": "Summer Nude",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q491466",
+      "label": "Tai Chi Chasers",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q11804721",
+      "label": "The Greatest Indian",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q3704047",
+      "label": "Thorn Flower",
+      "sitelinks": 9,
+      "imdbId": "tt32019672",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q2560489",
+      "label": "Touché Turtle and Dum Dum",
+      "sitelinks": 9,
+      "imdbId": "tt0038871",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q25541281",
+      "label": "U-Prince Series",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q135409831",
+      "label": "Vought Rising",
+      "sitelinks": 9,
+      "imdbId": "tt33041431",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q132201321",
+      "label": "WWE Evolve",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q2166018",
+      "label": "Xiao Xiao",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q111231823",
+      "label": "Yurei Deco",
+      "sitelinks": 9,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 9
+    },
+    {
+      "qid": "Q3466002",
+      "label": "!Oka Tokat",
+      "sitelinks": 8,
+      "imdbId": "tt26775636",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q484037",
+      "label": "A Happy Woman",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q24873319",
+      "label": "Afterlost",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q488596",
+      "label": "April Kiss",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2917343",
+      "label": "Arab Idol",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q121323809",
+      "label": "Asia Super Young",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q24668320",
+      "label": "B-Project",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q806913",
+      "label": "Banoo Main Teri Dulhann",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2884762",
+      "label": "Barom-1",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q21780551",
+      "label": "Born For You",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2686166",
+      "label": "Caiga Quien Caiga",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q23001907",
+      "label": "Chandra Nandini",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q40911314",
+      "label": "Crisis on Earth-X",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q135166893",
+      "label": "Crystal Lake",
+      "sitelinks": 8,
+      "imdbId": "tt23148340",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2703754",
+      "label": "Cyber Team in Akihabara",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6731776",
+      "label": "Dear Heaven",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q27645852",
+      "label": "Dil Se Dil Tak",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q6902304",
+      "label": "Eight Days, Assassination Attempts against King Jeongjo",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q18702126",
+      "label": "Etotama",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2699327",
+      "label": "Eureka Seven: AO",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q1083737",
+      "label": "Fantasy Adventure: Nagagutsu o Haita Neko no Bōken",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q19772367",
+      "label": "Fawazeer Ramadan (Ramadan Riddles)",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q137271520",
+      "label": "Four Hands, Two Sonatas",
+      "sitelinks": 8,
+      "imdbId": "tt39368345",
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2336153",
+      "label": "Geneshaft",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2617126",
+      "label": "Getsumento Heiki Mina",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q783099",
+      "label": "Ghost Slayers Ayashi",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q111433897",
+      "label": "Gold Mask",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q484345",
+      "label": "Good Sunday",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    },
+    {
+      "qid": "Q2570471",
+      "label": "Gordian Warrior",
+      "sitelinks": 8,
+      "source": "wikidata",
+      "imdbVotes": 0,
+      "igdbEngagement": 0,
+      "popularityScore": 8
+    }
+  ]
+}

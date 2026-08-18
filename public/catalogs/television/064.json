@@ -1,0 +1,1006 @@
+{
+  "catalogId": "television",
+  "index": 63,
+  "items": [
+    {
+      "qid": "Q105998583",
+      "label": "Masumiyet",
+      "sitelinks": 8,
+      "imdbId": "tt13726244",
+      "source": "wikidata",
+      "imdbVotes": 1189,
+      "igdbEngagement": 0,
+      "popularityScore": 38.75546961392531
+    },
+    {
+      "qid": "Q61077654",
+      "label": "Vuslat",
+      "sitelinks": 9,
+      "imdbId": "tt9520396",
+      "source": "wikidata",
+      "imdbVotes": 944,
+      "igdbEngagement": 0,
+      "popularityScore": 38.754318085092635
+    },
+    {
+      "qid": "Q2486156",
+      "label": "Big, Bigger, Biggest",
+      "sitelinks": 13,
+      "imdbId": "tt1224381",
+      "source": "wikidata",
+      "imdbVotes": 375,
+      "igdbEngagement": 0,
+      "popularityScore": 38.75187844927661
+    },
+    {
+      "qid": "Q1154265",
+      "label": "Gakuen Heaven",
+      "sitelinks": 13,
+      "imdbId": "tt0978030",
+      "source": "wikidata",
+      "imdbVotes": 375,
+      "igdbEngagement": 0,
+      "popularityScore": 38.75187844927661
+    },
+    {
+      "qid": "Q107657377",
+      "label": "Kamen Rider Revice",
+      "sitelinks": 12,
+      "imdbId": "tt14893284",
+      "source": "wikidata",
+      "imdbVotes": 471,
+      "igdbEngagement": 0,
+      "popularityScore": 38.73941998634088
+    },
+    {
+      "qid": "Q3312308",
+      "label": "Hispania, the Legend",
+      "sitelinks": 10,
+      "imdbId": "tt1691593",
+      "source": "wikidata",
+      "imdbVotes": 747,
+      "igdbEngagement": 0,
+      "popularityScore": 38.739015978644616
+    },
+    {
+      "qid": "Q115941173",
+      "label": "Joseon Lawyer",
+      "sitelinks": 11,
+      "imdbId": "tt26599669",
+      "source": "wikidata",
+      "imdbVotes": 593,
+      "igdbEngagement": 0,
+      "popularityScore": 38.73786444981194
+    },
+    {
+      "qid": "Q2539476",
+      "label": "Zoids",
+      "sitelinks": 8,
+      "imdbId": "tt0214354",
+      "source": "wikidata",
+      "imdbVotes": 1181,
+      "igdbEngagement": 0,
+      "popularityScore": 38.72617476545237
+    },
+    {
+      "qid": "Q2648027",
+      "label": "Ranczo",
+      "sitelinks": 8,
+      "imdbId": "tt0831833",
+      "source": "wikidata",
+      "imdbVotes": 1180,
+      "igdbEngagement": 0,
+      "popularityScore": 38.72249897613515
+    },
+    {
+      "qid": "Q3278689",
+      "label": "Hot Wheels: Battle Force 5",
+      "sitelinks": 11,
+      "imdbId": "tt1518723",
+      "source": "wikidata",
+      "imdbVotes": 590,
+      "igdbEngagement": 0,
+      "popularityScore": 38.71587480881256
+    },
+    {
+      "qid": "Q124632309",
+      "label": "Seoul Busters",
+      "sitelinks": 8,
+      "imdbId": "tt29872951",
+      "source": "wikidata",
+      "imdbVotes": 1174,
+      "igdbEngagement": 0,
+      "popularityScore": 38.700378666077555
+    },
+    {
+      "qid": "Q609711",
+      "label": "The Cube",
+      "sitelinks": 14,
+      "imdbId": "tt1555887",
+      "source": "wikidata",
+      "imdbVotes": 294,
+      "igdbEngagement": 0,
+      "popularityScore": 38.69822015978163
+    },
+    {
+      "qid": "Q18715201",
+      "label": "Tannbach",
+      "sitelinks": 7,
+      "imdbId": "tt3658364",
+      "source": "wikidata",
+      "imdbVotes": 1477,
+      "igdbEngagement": 0,
+      "popularityScore": 38.69674434058807
+    },
+    {
+      "qid": "Q16745985",
+      "label": "Night Watchman's Journal",
+      "sitelinks": 16,
+      "imdbId": "tt3922408",
+      "source": "wikidata",
+      "imdbVotes": 185,
+      "igdbEngagement": 0,
+      "popularityScore": 38.695129442179166
+    },
+    {
+      "qid": "Q115755761",
+      "label": "The Heavenly Idol",
+      "sitelinks": 8,
+      "imdbId": "tt26228426",
+      "source": "wikidata",
+      "imdbVotes": 1171,
+      "igdbEngagement": 0,
+      "popularityScore": 38.689276116820714
+    },
+    {
+      "qid": "Q2568039",
+      "label": "The Ruff & Reddy Show",
+      "sitelinks": 14,
+      "imdbId": "tt0050057",
+      "source": "wikidata",
+      "imdbVotes": 293,
+      "igdbEngagement": 0,
+      "popularityScore": 38.68347330412158
+    },
+    {
+      "qid": "Q451171",
+      "label": "In the Beginning",
+      "sitelinks": 9,
+      "imdbId": "tt0243067",
+      "source": "wikidata",
+      "imdbVotes": 928,
+      "igdbEngagement": 0,
+      "popularityScore": 38.68015713993642
+    },
+    {
+      "qid": "Q2068751",
+      "label": "Star Blazers 2199",
+      "sitelinks": 7,
+      "imdbId": "tt2496120",
+      "source": "wikidata",
+      "imdbVotes": 1470,
+      "igdbEngagement": 0,
+      "popularityScore": 38.6761267272753
+    },
+    {
+      "qid": "Q1428283",
+      "label": "Stanley",
+      "sitelinks": 10,
+      "imdbId": "tt0315068",
+      "source": "wikidata",
+      "imdbVotes": 736,
+      "igdbEngagement": 0,
+      "popularityScore": 38.674674878590515
+    },
+    {
+      "qid": "Q1194073",
+      "label": "HeartCatch PreCure!",
+      "sitelinks": 16,
+      "imdbId": "tt7126178",
+      "source": "wikidata",
+      "imdbVotes": 184,
+      "igdbEngagement": 0,
+      "popularityScore": 38.67171728403014
+    },
+    {
+      "qid": "Q287137",
+      "label": "University Challenge",
+      "sitelinks": 9,
+      "imdbId": "tt0177465",
+      "source": "wikidata",
+      "imdbVotes": 925,
+      "igdbEngagement": 0,
+      "popularityScore": 38.66610986681935
+    },
+    {
+      "qid": "Q97338544",
+      "label": "Cheat on Me, if You Can",
+      "sitelinks": 12,
+      "imdbId": "tt13092070",
+      "source": "wikidata",
+      "imdbVotes": 463,
+      "igdbEngagement": 0,
+      "popularityScore": 38.6651798055488
+    },
+    {
+      "qid": "Q45726",
+      "label": "MasterChef",
+      "sitelinks": 8,
+      "imdbId": "tt0805418",
+      "source": "wikidata",
+      "imdbVotes": 1164,
+      "igdbEngagement": 0,
+      "popularityScore": 38.663259253620375
+    },
+    {
+      "qid": "Q1248509",
+      "label": "Room 222",
+      "sitelinks": 7,
+      "imdbId": "tt0063948",
+      "source": "wikidata",
+      "imdbVotes": 1465,
+      "igdbEngagement": 0,
+      "popularityScore": 38.66133970305109
+    },
+    {
+      "qid": "Q1247803",
+      "label": "Dame chocolate",
+      "sitelinks": 13,
+      "imdbId": "tt1058596",
+      "source": "wikidata",
+      "imdbVotes": 367,
+      "igdbEngagement": 0,
+      "popularityScore": 38.65847818673518
+    },
+    {
+      "qid": "Q2248519",
+      "label": "Help!... It's the Hair Bear Bunch!",
+      "sitelinks": 10,
+      "imdbId": "tt0066667",
+      "source": "wikidata",
+      "imdbVotes": 733,
+      "igdbEngagement": 0,
+      "popularityScore": 38.656960599160705
+    },
+    {
+      "qid": "Q1217700",
+      "label": "The Ten Commandments",
+      "sitelinks": 7,
+      "imdbId": "tt0443412",
+      "source": "wikidata",
+      "imdbVotes": 1463,
+      "igdbEngagement": 0,
+      "popularityScore": 38.65541076722373
+    },
+    {
+      "qid": "Q18485913",
+      "label": "Don Ávila",
+      "sitelinks": 8,
+      "imdbId": "tt2280066",
+      "source": "wikidata",
+      "imdbVotes": 1161,
+      "igdbEngagement": 0,
+      "popularityScore": 38.65206128054312
+    },
+    {
+      "qid": "Q15255890",
+      "label": "Let's Eat",
+      "sitelinks": 10,
+      "imdbId": "tt3385484",
+      "source": "wikidata",
+      "imdbVotes": 732,
+      "igdbEngagement": 0,
+      "popularityScore": 38.65103974641128
+    },
+    {
+      "qid": "Q2986886",
+      "label": "Simplemente Maria",
+      "sitelinks": 13,
+      "imdbId": "tt0211866",
+      "source": "wikidata",
+      "imdbVotes": 366,
+      "igdbEngagement": 0,
+      "popularityScore": 38.64666064252089
+    },
+    {
+      "qid": "Q3600481",
+      "label": "ABC Afterschool Special",
+      "sitelinks": 7,
+      "imdbId": "tt0202179",
+      "source": "wikidata",
+      "imdbVotes": 1460,
+      "igdbEngagement": 0,
+      "popularityScore": 38.646502159342965
+    },
+    {
+      "qid": "Q15223101",
+      "label": "Hormones: The Series",
+      "sitelinks": 9,
+      "imdbId": "tt3199398",
+      "source": "wikidata",
+      "imdbVotes": 920,
+      "igdbEngagement": 0,
+      "popularityScore": 38.642596301968496
+    },
+    {
+      "qid": "Q2004375",
+      "label": "Uttaran",
+      "sitelinks": 13,
+      "imdbId": "tt6814630",
+      "source": "wikidata",
+      "imdbVotes": 365,
+      "igdbEngagement": 0,
+      "popularityScore": 38.6348108539441
+    },
+    {
+      "qid": "Q62272759",
+      "label": "Chief of Staff",
+      "sitelinks": 9,
+      "imdbId": "tt10220476",
+      "source": "wikidata",
+      "imdbVotes": 918,
+      "igdbEngagement": 0,
+      "popularityScore": 38.633155113861115
+    },
+    {
+      "qid": "Q2915401",
+      "label": "Visionaries: Knights of the Magical Light",
+      "sitelinks": 7,
+      "imdbId": "tt0092476",
+      "source": "wikidata",
+      "imdbVotes": 1455,
+      "igdbEngagement": 0,
+      "popularityScore": 38.63161374977018
+    },
+    {
+      "qid": "Q289147",
+      "label": "Yogi's Treasure Hunt",
+      "sitelinks": 14,
+      "imdbId": "tt0361260",
+      "source": "wikidata",
+      "imdbVotes": 289,
+      "igdbEngagement": 0,
+      "popularityScore": 38.62397997898956
+    },
+    {
+      "qid": "Q22326445",
+      "label": "The Royal Gambler",
+      "sitelinks": 13,
+      "imdbId": "tt5569038",
+      "source": "wikidata",
+      "imdbVotes": 364,
+      "igdbEngagement": 0,
+      "popularityScore": 38.622928644564745
+    },
+    {
+      "qid": "Q483139",
+      "label": "All In",
+      "sitelinks": 11,
+      "imdbId": "tt0431504",
+      "source": "wikidata",
+      "imdbVotes": 577,
+      "igdbEngagement": 0,
+      "popularityScore": 38.61927838420529
+    },
+    {
+      "qid": "Q2601773",
+      "label": "Quintuplets",
+      "sitelinks": 8,
+      "imdbId": "tt0407441",
+      "source": "wikidata",
+      "imdbVotes": 1152,
+      "igdbEngagement": 0,
+      "popularityScore": 38.61829307294699
+    },
+    {
+      "qid": "Q463447",
+      "label": "American Bandstand",
+      "sitelinks": 12,
+      "imdbId": "tt0049993",
+      "source": "wikidata",
+      "imdbVotes": 458,
+      "igdbEngagement": 0,
+      "popularityScore": 38.61812685537261
+    },
+    {
+      "qid": "Q1141930",
+      "label": "Juken Sentai Gekiranger",
+      "sitelinks": 14,
+      "imdbId": "tt1151113",
+      "source": "wikidata",
+      "imdbVotes": 288,
+      "igdbEngagement": 0,
+      "popularityScore": 38.608978427565475
+    },
+    {
+      "qid": "Q131716998",
+      "label": "A Hundred Memories",
+      "sitelinks": 8,
+      "imdbId": "tt33475769",
+      "source": "wikidata",
+      "imdbVotes": 1149,
+      "igdbEngagement": 0,
+      "popularityScore": 38.60697840353612
+    },
+    {
+      "qid": "Q123278073",
+      "label": "Şahane Hayatım",
+      "sitelinks": 9,
+      "imdbId": "tt28379984",
+      "source": "wikidata",
+      "imdbVotes": 912,
+      "igdbEngagement": 0,
+      "popularityScore": 38.60470777534299
+    },
+    {
+      "qid": "Q1247879",
+      "label": "Larin izbor",
+      "sitelinks": 10,
+      "imdbId": "tt2034403",
+      "source": "wikidata",
+      "imdbVotes": 724,
+      "igdbEngagement": 0,
+      "popularityScore": 38.603380065709935
+    },
+    {
+      "qid": "Q645956",
+      "label": "The Knights of Prosperity",
+      "sitelinks": 7,
+      "imdbId": "tt0494287",
+      "source": "wikidata",
+      "imdbVotes": 1445,
+      "igdbEngagement": 0,
+      "popularityScore": 38.601682929585124
+    },
+    {
+      "qid": "Q107094507",
+      "label": "Santa Evita",
+      "sitelinks": 8,
+      "imdbId": "tt11563256",
+      "source": "wikidata",
+      "imdbVotes": 1147,
+      "igdbEngagement": 0,
+      "popularityScore": 38.59941888061955
+    },
+    {
+      "qid": "Q687284",
+      "label": "Star Search",
+      "sitelinks": 12,
+      "imdbId": "tt0085093",
+      "source": "wikidata",
+      "imdbVotes": 456,
+      "igdbEngagement": 0,
+      "popularityScore": 38.599162000698506
+    },
+    {
+      "qid": "Q18207593",
+      "label": "H₂O: Mermaid Adventures",
+      "sitelinks": 13,
+      "imdbId": "tt4610750",
+      "source": "wikidata",
+      "imdbVotes": 362,
+      "igdbEngagement": 0,
+      "popularityScore": 38.599066250361126
+    },
+    {
+      "qid": "Q1248905",
+      "label": "The Danny Thomas Show",
+      "sitelinks": 7,
+      "imdbId": "tt0045410",
+      "source": "wikidata",
+      "imdbVotes": 1444,
+      "igdbEngagement": 0,
+      "popularityScore": 38.59867847092566
+    },
+    {
+      "qid": "Q2332113",
+      "label": "The Adventures of Paddington Bear",
+      "sitelinks": 11,
+      "imdbId": "tt0314975",
+      "source": "wikidata",
+      "imdbVotes": 574,
+      "igdbEngagement": 0,
+      "popularityScore": 38.596678446896306
+    },
+    {
+      "qid": "Q6466124",
+      "label": "La Familia P. Luche",
+      "sitelinks": 7,
+      "imdbId": "tt1244672",
+      "source": "wikidata",
+      "imdbVotes": 1443,
+      "igdbEngagement": 0,
+      "popularityScore": 38.5956719323362
+    },
+    {
+      "qid": "Q59640153",
+      "label": "Queen Sono",
+      "sitelinks": 7,
+      "imdbId": "tt9426290",
+      "source": "wikidata",
+      "imdbVotes": 1443,
+      "igdbEngagement": 0,
+      "popularityScore": 38.5956719323362
+    },
+    {
+      "qid": "Q3076668",
+      "label": "Snapphanar",
+      "sitelinks": 8,
+      "imdbId": "tt0820010",
+      "source": "wikidata",
+      "imdbVotes": 1146,
+      "igdbEngagement": 0,
+      "popularityScore": 38.59563417901268
+    },
+    {
+      "qid": "Q639740",
+      "label": "Pioneer One",
+      "sitelinks": 9,
+      "imdbId": "tt1748166",
+      "source": "wikidata",
+      "imdbVotes": 910,
+      "igdbEngagement": 0,
+      "popularityScore": 38.595183769729985
+    },
+    {
+      "qid": "Q1717699",
+      "label": "Noah's Island",
+      "sitelinks": 10,
+      "imdbId": "tt0454733",
+      "source": "wikidata",
+      "imdbVotes": 722,
+      "igdbEngagement": 0,
+      "popularityScore": 38.59138297294531
+    },
+    {
+      "qid": "Q4474744",
+      "label": "Streets of Broken Lights",
+      "sitelinks": 10,
+      "imdbId": "tt0192936",
+      "source": "wikidata",
+      "imdbVotes": 722,
+      "igdbEngagement": 0,
+      "popularityScore": 38.59138297294531
+    },
+    {
+      "qid": "Q3270887",
+      "label": "Rescue 911",
+      "sitelinks": 8,
+      "imdbId": "tt0096688",
+      "source": "wikidata",
+      "imdbVotes": 1143,
+      "igdbEngagement": 0,
+      "popularityScore": 38.58426024457005
+    },
+    {
+      "qid": "Q116051911",
+      "label": "La promesa",
+      "sitelinks": 11,
+      "imdbId": "tt22325164",
+      "source": "wikidata",
+      "imdbVotes": 572,
+      "igdbEngagement": 0,
+      "popularityScore": 38.581546219673896
+    },
+    {
+      "qid": "Q2524545",
+      "label": "The Slim Shady Show",
+      "sitelinks": 9,
+      "imdbId": "tt0388423",
+      "source": "wikidata",
+      "imdbVotes": 907,
+      "igdbEngagement": 0,
+      "popularityScore": 38.580858485210854
+    },
+    {
+      "qid": "Q23001041",
+      "label": "Ready Jet Go!",
+      "sitelinks": 15,
+      "imdbId": "tt5292052",
+      "source": "wikidata",
+      "imdbVotes": 227,
+      "igdbEngagement": 0,
+      "popularityScore": 38.57934847000454
+    },
+    {
+      "qid": "Q1203502",
+      "label": "Mahou Sentai Magiranger",
+      "sitelinks": 14,
+      "imdbId": "tt0488859",
+      "source": "wikidata",
+      "imdbVotes": 286,
+      "igdbEngagement": 0,
+      "popularityScore": 38.57881896733993
+    },
+    {
+      "qid": "Q65165706",
+      "label": "Inazuma Eleven Go",
+      "sitelinks": 9,
+      "imdbId": "tt2189266",
+      "source": "wikidata",
+      "imdbVotes": 905,
+      "igdbEngagement": 0,
+      "popularityScore": 38.571281976768134
+    },
+    {
+      "qid": "Q11275473",
+      "label": "I'm Old Enough",
+      "sitelinks": 7,
+      "imdbId": "tt1289730",
+      "source": "wikidata",
+      "imdbVotes": 1434,
+      "igdbEngagement": 0,
+      "popularityScore": 38.568519010700115
+    },
+    {
+      "qid": "Q55391825",
+      "label": "Cupcake & Dino: General Services",
+      "sitelinks": 8,
+      "imdbId": "tt8697554",
+      "source": "wikidata",
+      "imdbVotes": 1138,
+      "igdbEngagement": 0,
+      "popularityScore": 38.56523724079101
+    },
+    {
+      "qid": "Q130219380",
+      "label": "Brewing Love",
+      "sitelinks": 7,
+      "imdbId": "tt33607282",
+      "source": "wikidata",
+      "imdbVotes": 1431,
+      "igdbEngagement": 0,
+      "popularityScore": 38.55943017971836
+    },
+    {
+      "qid": "Q751133",
+      "label": "Dynasty: The Reunion",
+      "sitelinks": 11,
+      "imdbId": "tt0101788",
+      "source": "wikidata",
+      "imdbVotes": 568,
+      "igdbEngagement": 0,
+      "popularityScore": 38.551122663950714
+    },
+    {
+      "qid": "Q1193877",
+      "label": "GoGo Sentai Boukenger",
+      "sitelinks": 14,
+      "imdbId": "tt0796087",
+      "source": "wikidata",
+      "imdbVotes": 284,
+      "igdbEngagement": 0,
+      "popularityScore": 38.5484486000851
+    },
+    {
+      "qid": "Q4676726",
+      "label": "Pelle Svanslös",
+      "sitelinks": 9,
+      "imdbId": "tt0118424",
+      "source": "wikidata",
+      "imdbVotes": 900,
+      "igdbEngagement": 0,
+      "popularityScore": 38.54724790979063
+    },
+    {
+      "qid": "Q130341167",
+      "label": "Spice Up Our Love",
+      "sitelinks": 8,
+      "imdbId": "tt33143834",
+      "source": "wikidata",
+      "imdbVotes": 1132,
+      "igdbEngagement": 0,
+      "popularityScore": 38.542299098633976
+    },
+    {
+      "qid": "Q139536",
+      "label": "The King's Doctor",
+      "sitelinks": 15,
+      "imdbId": "tt3364792",
+      "source": "wikidata",
+      "imdbVotes": 225,
+      "igdbEngagement": 0,
+      "popularityScore": 38.54108439147401
+    },
+    {
+      "qid": "Q2079483",
+      "label": "The Infinite Quest",
+      "sitelinks": 8,
+      "imdbId": "tt1064739",
+      "source": "wikidata",
+      "imdbVotes": 1130,
+      "igdbEngagement": 0,
+      "popularityScore": 38.534626049254555
+    },
+    {
+      "qid": "Q628307",
+      "label": "The Sleepover Club",
+      "sitelinks": 9,
+      "imdbId": "tt0382482",
+      "source": "wikidata",
+      "imdbVotes": 895,
+      "igdbEngagement": 0,
+      "popularityScore": 38.52308009662126
+    },
+    {
+      "qid": "Q130425597",
+      "label": "Invisible",
+      "sitelinks": 7,
+      "imdbId": "tt26658061",
+      "source": "wikidata",
+      "imdbVotes": 1419,
+      "igdbEngagement": 0,
+      "popularityScore": 38.522883443830565
+    },
+    {
+      "qid": "Q83010409",
+      "label": "Snoopy in Space",
+      "sitelinks": 9,
+      "imdbId": "tt10659366",
+      "source": "wikidata",
+      "imdbVotes": 894,
+      "igdbEngagement": 0,
+      "popularityScore": 38.51823035315912
+    },
+    {
+      "qid": "Q1247319",
+      "label": "Mi Corazón Insiste… en Lola Volcán",
+      "sitelinks": 14,
+      "imdbId": "tt1929755",
+      "source": "wikidata",
+      "imdbVotes": 282,
+      "igdbEngagement": 0,
+      "popularityScore": 38.51786435524291
+    },
+    {
+      "qid": "Q7979503",
+      "label": "Weekly Idol",
+      "sitelinks": 14,
+      "imdbId": "tt3141676",
+      "source": "wikidata",
+      "imdbVotes": 282,
+      "igdbEngagement": 0,
+      "popularityScore": 38.51786435524291
+    },
+    {
+      "qid": "Q4322414",
+      "label": "A Próxima Vítima",
+      "sitelinks": 11,
+      "imdbId": "tt0138256",
+      "source": "wikidata",
+      "imdbVotes": 563,
+      "igdbEngagement": 0,
+      "popularityScore": 38.512791039833424
+    },
+    {
+      "qid": "Q897751",
+      "label": "Cubix",
+      "sitelinks": 11,
+      "imdbId": "tt0293726",
+      "source": "wikidata",
+      "imdbVotes": 563,
+      "igdbEngagement": 0,
+      "popularityScore": 38.512791039833424
+    },
+    {
+      "qid": "Q130784396",
+      "label": "Twelve",
+      "sitelinks": 8,
+      "imdbId": "tt37492797",
+      "source": "wikidata",
+      "imdbVotes": 1122,
+      "igdbEngagement": 0,
+      "popularityScore": 38.50379756261458
+    },
+    {
+      "qid": "Q107029730",
+      "label": "Young Lady and Gentleman",
+      "sitelinks": 9,
+      "imdbId": "tt15514606",
+      "source": "wikidata",
+      "imdbVotes": 889,
+      "igdbEngagement": 0,
+      "popularityScore": 38.49390006644913
+    },
+    {
+      "qid": "Q592745",
+      "label": "The Return of Ultraman",
+      "sitelinks": 12,
+      "imdbId": "tt0184152",
+      "source": "wikidata",
+      "imdbVotes": 445,
+      "igdbEngagement": 0,
+      "popularityScore": 38.49334858712142
+    },
+    {
+      "qid": "Q591748",
+      "label": "Rescue: Special Ops",
+      "sitelinks": 7,
+      "imdbId": "tt1442566",
+      "source": "wikidata",
+      "imdbVotes": 1408,
+      "igdbEngagement": 0,
+      "popularityScore": 38.489109931093566
+    },
+    {
+      "qid": "Q131383827",
+      "label": "Mobile Suit Gundam GQuuuuuuX",
+      "sitelinks": 9,
+      "imdbId": "tt34880941",
+      "source": "wikidata",
+      "imdbVotes": 888,
+      "igdbEngagement": 0,
+      "popularityScore": 38.48901760970214
+    },
+    {
+      "qid": "Q2454867",
+      "label": "The Wonderful Wizard of Oz",
+      "sitelinks": 12,
+      "imdbId": "tt0092486",
+      "source": "wikidata",
+      "imdbVotes": 444,
+      "igdbEngagement": 0,
+      "popularityScore": 38.483600109809316
+    },
+    {
+      "qid": "Q1248367",
+      "label": "Machos",
+      "sitelinks": 13,
+      "imdbId": "tt0374415",
+      "source": "wikidata",
+      "imdbVotes": 352,
+      "igdbEngagement": 0,
+      "popularityScore": 38.477747053878225
+    },
+    {
+      "qid": "Q1477218",
+      "label": "Navarro",
+      "sitelinks": 10,
+      "imdbId": "tt0096658",
+      "source": "wikidata",
+      "imdbVotes": 703,
+      "igdbEngagement": 0,
+      "popularityScore": 38.47572659142112
+    },
+    {
+      "qid": "Q1347430",
+      "label": "Epitaphs",
+      "sitelinks": 7,
+      "imdbId": "tt0423646",
+      "source": "wikidata",
+      "imdbVotes": 1403,
+      "igdbEngagement": 0,
+      "popularityScore": 38.473671077937865
+    },
+    {
+      "qid": "Q16982302",
+      "label": "Good Morning Britain",
+      "sitelinks": 9,
+      "imdbId": "tt3644198",
+      "source": "wikidata",
+      "imdbVotes": 884,
+      "igdbEngagement": 0,
+      "popularityScore": 38.46943270697825
+    },
+    {
+      "qid": "Q30753456",
+      "label": "Tomorrow Is Ours",
+      "sitelinks": 15,
+      "imdbId": "tt7124904",
+      "source": "wikidata",
+      "imdbVotes": 221,
+      "igdbEngagement": 0,
+      "popularityScore": 38.46352974450639
+    },
+    {
+      "qid": "Q138027135",
+      "label": "The Scarecrow",
+      "sitelinks": 7,
+      "imdbId": "tt39245629",
+      "source": "wikidata",
+      "imdbVotes": 1399,
+      "igdbEngagement": 0,
+      "popularityScore": 38.46128035678238
+    },
+    {
+      "qid": "Q107467167",
+      "label": "Reflection of You",
+      "sitelinks": 11,
+      "imdbId": "tt14684086",
+      "source": "wikidata",
+      "imdbVotes": 555,
+      "igdbEngagement": 0,
+      "popularityScore": 38.45074791582057
+    },
+    {
+      "qid": "Q6518523",
+      "label": "Lego Star Wars: The Yoda Chronicles",
+      "sitelinks": 7,
+      "imdbId": "tt3014650",
+      "source": "wikidata",
+      "imdbVotes": 1395,
+      "igdbEngagement": 0,
+      "popularityScore": 38.44885418287142
+    },
+    {
+      "qid": "Q2539222",
+      "label": "Wagner",
+      "sitelinks": 10,
+      "imdbId": "tt0085107",
+      "source": "wikidata",
+      "imdbVotes": 698,
+      "igdbEngagement": 0,
+      "popularityScore": 38.44477175745681
+    },
+    {
+      "qid": "Q131455283",
+      "label": "The Seduction",
+      "sitelinks": 7,
+      "imdbId": "tt32510765",
+      "source": "wikidata",
+      "imdbVotes": 1391,
+      "igdbEngagement": 0,
+      "popularityScore": 38.43639235274543
+    },
+    {
+      "qid": "Q2734604",
+      "label": "Pac-Man",
+      "sitelinks": 10,
+      "imdbId": "tt0083461",
+      "source": "wikidata",
+      "imdbVotes": 696,
+      "igdbEngagement": 0,
+      "popularityScore": 38.432327780980096
+    },
+    {
+      "qid": "Q3448609",
+      "label": "Wizards vs Aliens",
+      "sitelinks": 10,
+      "imdbId": "tt2491332",
+      "source": "wikidata",
+      "imdbVotes": 695,
+      "igdbEngagement": 0,
+      "popularityScore": 38.426092396105616
+    },
+    {
+      "qid": "Q1247810",
+      "label": "Panorama",
+      "sitelinks": 10,
+      "imdbId": "tt0199257",
+      "source": "wikidata",
+      "imdbVotes": 691,
+      "igdbEngagement": 0,
+      "popularityScore": 38.401060944567575
+    },
+    {
+      "qid": "Q18378139",
+      "label": "Que te perdone Dios",
+      "sitelinks": 19,
+      "imdbId": "tt4302554",
+      "source": "wikidata",
+      "imdbVotes": 86,
+      "igdbEngagement": 0,
+      "popularityScore": 38.395192526186186
+    },
+    {
+      "qid": "Q137651959",
+      "label": "Filing for Love",
+      "sitelinks": 7,
+      "imdbId": "tt39010903",
+      "source": "wikidata",
+      "imdbVotes": 1376,
+      "igdbEngagement": 0,
+      "popularityScore": 38.389339402569234
+    },
+    {
+      "qid": "Q7038262",
+      "label": "Nine",
+      "sitelinks": 10,
+      "imdbId": "tt3215140",
+      "source": "wikidata",
+      "imdbVotes": 689,
+      "igdbEngagement": 0,
+      "popularityScore": 38.38849090737256
+    }
+  ]
+}
