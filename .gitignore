@@ -1,0 +1,29 @@
+# Installed dependencies: reproduced by npm ci from package-lock.json.
+node_modules/
+
+# Local build output: GitHub Actions builds and deploys dist/ as an artifact.
+dist/
+*.tsbuildinfo
+
+# Local environment and API credentials used only by catalog generation.
+.env
+.env.*
+!.env.example
+
+# Downloaded third-party source datasets and generator scratch/cache data.
+title.ratings.tsv
+title.ratings.tsv.gz
+data/
+cache/
+
+# Keep generated static catalogs tracked: GitHub Pages serves them at runtime.
+!public/
+!public/catalogs/
+!public/catalogs/**
+
+# Tool/editor noise.
+coverage/
+.vite/
+.DS_Store
+Thumbs.db
+*.log
